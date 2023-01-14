@@ -1,5 +1,5 @@
 <!-- Thank you for taking the time to contribute to this project!
-In order to get this pull request (PR) merged in a reasonable amount of time, you must complete this entire template. -->
+In order to get this pull request (PR) merged in a reasonable amount of time, please follow this checklist -->
 
 ## Pull Request Requirements
 <!-- Replace the whitespace between the square brackets with an 'x', e.g. [x]. After you create the PR, they will become checkboxes that you can click on. -->
