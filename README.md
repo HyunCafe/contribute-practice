@@ -67,3 +67,43 @@ git switch HyunCafe
 ```
 
 ## Contribution time!
+* Open the contributing.md file, you can use a text editor of your choice, for example, nano contributing.md or vi contributing.md
+(I personally use vs code, so I would type:
+```
+code .
+```
+
+*  Follow the directions under the contributing.md and now lets commit your changes!
+
+*  Remember the order for git best practices! <br>
+git status >> git add (files changed) >> git commit -m "insert short description of changes made" >> git push
+
+type:
+```
+git status
+```
+now you can see the files that were changed, now add them
+```
+git add (files changed)
+```
+now lets commit our changes with a short description
+```
+git commit -m "Add: Added my name to list, My first contribution!"
+```
+Push the changes to your forked repository on GitHub using the command git push origin <branch-name>, where <branch-name> is the name of the branch you are working on.
+```
+git push
+```
+
+## Making a Pull Request
+
+
+
+  
+Go to your forked repository on GitHub, and you will see a button called "Compare & pull request" on the newly pushed branch, click on it.
+
+Fill in the title and description of the pull request, to explain the changes you made and why they should be merged with the main branch of the original repository.
+
+Once you have filled out the details, click the "Create pull request" button.
+
+The repository maintainers will review your pull request and give feedback or merge it with the main branch.
