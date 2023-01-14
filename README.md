@@ -1,7 +1,9 @@
+# <p align="center"> <img width="80" src="assests/flamey.gif" alt="flamey from studio ghilbi" /> First time Practice Contributions! <img width="80" src="assests/flamey.gif" alt="flamey from studio ghilbi" />
+</p>
 
-# <img width="80" src="assests/flamey.gif" alt="flamey from studio ghilbi" /> First time Practice Contributions! <img width="80" src="assests/flamey.gif" alt="flamey from studio ghilbi" />
-
-<img width="700" src="assests/Coffee.gif" alt="hot coffee" />
+<p align="center">
+<img align="center" width="700" src="assests/Coffee.gif" alt="hot coffee" />
+</p>
 
 ## Introduction
 Welcome to our beginner-friendly GitHub repository for practicing making contributions!
