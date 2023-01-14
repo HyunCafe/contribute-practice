@@ -1,6 +1,6 @@
 
 # First time Practice Contributions!
-# CURRENTLY UNDER CONSTRUCTION! WILL TRY TO FINISH ASAP!
+
 ## Introduction
 Welcome to our beginner-friendly GitHub repository for practicing making contributions!
 
