@@ -41,7 +41,6 @@ So, fork the repo, clone it, and let's get started!
 
 
 ## Clone this repo
-<br><h2> Step 1 </h2>
 <img align="right" width="400" src="assests/clonestep1.JPG" alt="step 1 click code then ssh then copy" /> <br>
 * First, lets click on the "Code" drop down button, click on "SSH" then click the "Copy Icon" <br>
 
@@ -49,21 +48,23 @@ So, fork the repo, clone it, and let's get started!
 ```
 mkdir contribute-practice
 ```
-and cd into the directory
+* and cd into the directory
 ```
 cd contribute-practice
 ```
-Initialize a new Git repository in the directory by typing git init.
-```
-git init
-```
-Clone the forked repository to your local machine by typing git clone followed by the SSH link that you copied.
+* Clone the forked repository to your local machine by typing git clone followed by the SSH link that you copied.
 ```
 git clone copyoftheurlssh
 ```
 
 
 
-
 ## Create a branch
-<br><h2> Step 1 </h2>
+* Now let's create a new branch through the terminal using the git switch _BranchName_. 
+
+Replace _BranchName_ with the name of the new branch you want to create. 
+
+For example:
+```
+git switch HyunCafe
+```
