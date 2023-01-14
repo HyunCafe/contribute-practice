@@ -1,5 +1,7 @@
 
-# First time Practice Contributions!
+# <img width="100" src="assests/flamey.gif" alt="flamey from studio ghilbi" /> First time Practice Contributions! <img width="100" src="assests/flamey.gif" alt="flamey from studio ghilbi" />
+
+<img width="700" src="assests/Coffee.gif" alt="hot coffee" />
 
 ## Introduction
 Welcome to our beginner-friendly GitHub repository for practicing making contributions!
@@ -21,6 +23,8 @@ So, fork the repo, clone it, and let's get started!
 * Include simple tasks for contributors to complete with step-by-step instructions on how to submit changes
 * Explain that the repository is suitable for both new programmers and those new to open source contributions
 * Encourage contributors to fork and clone the repo and get started with making contributions. <br><br><br><br>
+
+<img width="500" src="assests/studiogif.gif" alt="cute lazy cat gif chasing butterfly" />
 
 ## Fork this repo 
 <br><h2> Step 1 </h2>
@@ -111,6 +115,10 @@ git push
 
 
 ## Great job! All done! Wasn't so bad was it?
+
+<p align="center"><br>
+<img width="700" align="center" src="assests/totoro.gif" alt="cute studio ghilbi gif" />
+  </p> <br>
 
 * Great job! You've just successfully completed the usual fork -> clone -> make changes -> pull request workflow, which is commonly used by contributors. Keep it up and keep contributing!
 
