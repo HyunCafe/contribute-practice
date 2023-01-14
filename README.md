@@ -111,4 +111,5 @@ git push
 
 
 ## Great job! All done! Wasn't so bad was it?
-* The repository maintainers will review your pull request and give feedback or merge it with the main branch.
+* Great job! You've just successfully completed the usual fork -> clone -> make changes -> pull request workflow, which is commonly used by contributors. Keep it up and keep contributing!
+* I will get around to merging the request when I can, I am usually good about it!
