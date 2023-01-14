@@ -34,8 +34,12 @@ HyunCafe (https://github.com/HyunCafe)<br>
 ## G
 
 ## H
+
 * HyunCafe (https://github.com/HyunCafe)<br>
 "For the year 2023, my goal is to contribute more to open source projects!"
+
+* HyunPrac (https://github.com/HyunPrac)<br>
+"For the year 2023, my goal is to get more quality sleep!"
 
 ## I
 
