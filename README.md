@@ -39,7 +39,6 @@ So, fork the repo, clone it, and let's get started!
 
 * This will be a copy of the original repository, but it will be under your account. <br><br><br><br><br><br><br><br>
 
-
 ## Clone this repo
 <img align="right" width="400" src="assests/clonestep1.JPG" alt="step 1 click code then ssh then copy" /> <br>
 * First, lets click on the "Code" drop down button, click on "SSH" then click the "Copy Icon" <br>
@@ -57,8 +56,6 @@ cd contribute-practice
 git clone copyoftheurlssh
 ```
 
-
-
 ## Create a branch
 * Now let's create a new branch through the terminal using the git switch _BranchName_. 
 
@@ -68,3 +65,5 @@ For example:
 ```
 git switch HyunCafe
 ```
+
+## Contribution time!
