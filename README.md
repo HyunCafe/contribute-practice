@@ -15,7 +15,7 @@ along with step-by-step instructions on how to submit your changes.
 
 Whether you're new to programming or just new to open source contributions, 
 this is the perfect place to get started.
-So, fork the repo, clone it, and let's get started!
+So, fork the repo, clone it, and let's get started! <br>
 
 ## Objectives
 * Provide an introduction and overview of the repository for first-time contributors
