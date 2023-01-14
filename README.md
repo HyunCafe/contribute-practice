@@ -1,5 +1,5 @@
 
-# <img width="100" src="assests/flamey.gif" alt="flamey from studio ghilbi" /> First time Practice Contributions! <img width="100" src="assests/flamey.gif" alt="flamey from studio ghilbi" />
+# <img width="80" src="assests/flamey.gif" alt="flamey from studio ghilbi" /> First time Practice Contributions! <img width="80" src="assests/flamey.gif" alt="flamey from studio ghilbi" />
 
 <img width="700" src="assests/Coffee.gif" alt="hot coffee" />
 
@@ -103,7 +103,7 @@ git push
 <h2> Step 1 </h2>
 <img align="right" width="400" src="assests/prstep1.JPG" alt="step 1 Pull request" /> <br><br><br><br><br>
 
-* Go to your forked repository on GitHub, click on "contibute" drowo down click on "Open pull request"<br><br><br><br><br>
+* Go to your forked repository on GitHub, click on "contibute" drowo down click on "Open pull request"<br><br><br>
 
 
 <br><br><h2> Step 2 </h2>
@@ -111,7 +111,7 @@ git push
 
 * Fill in the title and description of the pull request, to explain the changes you made and why they should be merged with the main branch of the original repository.
 
-* Once you have filled out the details, click the "Create pull request" button. <br><br><br><br><br><br><br><br>
+* Once you have filled out the details, click the "Create pull request" button. <br><br><br><br><br><br>
 
 
 ## Great job! All done! Wasn't so bad was it?
