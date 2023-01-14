@@ -29,7 +29,7 @@ So, fork the repo, clone it, and let's get started!
 ## Fork this repository
 <img align="right" width="400" src="assests/forkrepo.JPG" alt="fork this repository" />
 Click on the "Fork" button located in the top right corner of the page.
-Select the account that you want to fork the repository to.
-Wait for the forking process to complete. This may take a few moments depending on the size of the repository.
+
 Once the repository has been forked, you will be taken to the forked repository's page. 
+
 This will be a copy of the original repository, but it will be under your account.
