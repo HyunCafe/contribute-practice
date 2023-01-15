@@ -74,7 +74,7 @@ git switch HyunCafe
 <br><br>
 ## Contribution time!
 * Open the contributing.md file, you can use a text editor of your choice, for example, nano contributing.md or vi contributing.md
-(I personally use vs code, so I would type:
+I personally use vs code, so I would type:
 ```
 code .
 ```
