@@ -69,7 +69,7 @@ Replace _BranchName_ with the name of the new branch you want to create.
 
 For example:
 ```
-git switch HyunCafe
+git switch -c HyunCafe
 ```
 <br><br>
 ## Contribution time!
