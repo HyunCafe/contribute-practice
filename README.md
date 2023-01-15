@@ -23,7 +23,6 @@ So, fork the repo, clone it, and let's get started! <br>
 * Provide an introduction and overview of the repository for first-time contributors
 * Explain the process of forking a repo, cloning it to a local machine, making changes and submitting a pull request
 * Include simple tasks for contributors to complete with step-by-step instructions on how to submit changes
-* Explain that the repository is suitable for both new programmers and those new to open source contributions
 * Encourage contributors to fork and clone the repo and get started with making contributions. <br><br><br>
 
 <img width="500" src="assests/studiogif.gif" alt="cute lazy cat gif chasing butterfly" />
