@@ -127,6 +127,6 @@ git push -u origin BranchName
 <img width="700" align="center" src="assests/totoro.gif" alt="cute studio ghilbi gif" />
   </p> <br>
 
-* Great job! You've just successfully completed the usual fork -> clone -> make changes -> pull request workflow, which is commonly used by contributors. Keep it up and keep on contributing!" should be reworded as "Congratulations on completing the typical fork, clone, make changes, and pull request workflow commonly used by contributors. Keep up the good work and continue contributing!
+*  Congratulations on completing the typical fork, clone, make changes, and pull request workflow commonly used by contributors. Keep up the good work and continue contributing!
 
 * I will get around to merging the request when I can, I am usually good about it!
