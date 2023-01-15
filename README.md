@@ -3,7 +3,7 @@
 
 <p align="center">
 <img align="center" width="700" src="assests/Coffee.gif" alt="hot coffee" />
-</p>
+</p> <br>
 
 ## Introduction
 Welcome to a beginner-friendly GitHub repository. A great place to start for a first practice contribution!
@@ -17,7 +17,7 @@ along with step-by-step instructions on how to submit your changes.
 
 Whether you're new to programming or just new to open source contributions, 
 this is the perfect place to get started.
-So, fork the repo, clone it, and let's get started! <br>
+So, fork the repo, clone it, and let's get started! <br><br><br>
 
 ## Objectives
 * Provide an introduction and overview of the repository for first-time contributors
@@ -25,10 +25,16 @@ So, fork the repo, clone it, and let's get started! <br>
 * Include simple tasks for contributors to complete with step-by-step instructions on how to submit changes
 * Encourage contributors to fork and clone the repo and get started with making contributions. <br><br><br>
 
-<img width="500" src="assests/studiogif.gif" alt="cute lazy cat gif chasing butterfly" />
+## Table of Contents
+* [Fork this repo](#Fork-this-repo)
+* [Clone this repo](#Clone-this-repo)
+* [Create a branch](#Create-a-branch)
+* [Making a Pull Request](#Making-a-Pull-Request)  <br>
+
+<img width="500" src="assests/studiogif.gif" alt="cute lazy cat gif chasing butterfly" />   <br>
 
 ## Fork this repo 
-<br><h2> Step 1 </h2>
+<h2> Step 1 </h2>
 <img align="right" width="400" src="assests/forkrepo.JPG" alt="step 1 fork this repo drown down button" /> <br>
 
 * Click on the "Fork" drop down button located in the top right corner of the page.
