@@ -6,13 +6,13 @@
 </p>
 
 ## Introduction
-Welcome to our beginner-friendly GitHub repository for practicing making contributions!
+Welcome to a beginner-friendly GitHub repository. A great place to start for a first practice contribution!
 
 This repo is designed for first-time contributors to get familiar with the process 
 of forking a repo, cloning it to their local machine, making changes, 
 and submitting a pull request. 
 
-We've included some simple tasks for you to complete, 
+I've included some simple tasks for you to complete, 
 along with step-by-step instructions on how to submit your changes.
 
 Whether you're new to programming or just new to open source contributions, 
@@ -63,9 +63,9 @@ git clone copyoftheurlssh
 ```
 <br><br>
 ## Create a branch
-* Now let's create a new branch through the terminal using the git switch _BranchName_. 
+* Now let's create a new branch through the terminal using the git switch BranchName. 
 
-Replace _BranchName_ with the name of the new branch you want to create. 
+Replace BranchName with the name of the new branch you want to create. 
 
 For example:
 ```
@@ -96,22 +96,22 @@ now lets commit our changes with a short description
 ```
 git commit -m "Add: Added my name to list, My first contribution!"
 ```
-Push the changes to your forked repository on GitHub using the command git push origin <branch-name>, where <branch-name> is the name of the branch you are working on.
+Push the changes to your forked repository on GitHub using the command git push origin BranchName, where BranchName is the name of the branch you are working on.
 ```
-git push -u origin _BranchName_
+git push -u origin BranchName
 ```
 <br><br>
 ## Making a Pull Request
 <h2> Step 1 </h2>
 <img align="right" width="400" src="assests/prstep1.JPG" alt="step 1 Pull request" /> <br><br><br><br><br>
 
-* Go to your forked repository on GitHub, click on "contibute" drowp down click on "Open pull request"<br><br><br>
+* Go to your forked repository on GitHub, click on "contibute" drop down, and click on "Open pull request"<br><br><br>
 
 
 <br><br><h2> Step 2 </h2>
 <img align="right" width="400" src="assests/prstep2.JPG" alt="step 2 Pull request" /> <br>
 
-* Fill in the title and description of the pull request, to explain the changes you made and why they should be merged with the main branch of the original repository.
+* Fill in the title and description of the pull request to explain the changes you made!
 
 * Once you have filled out the details, click the "Create pull request" button to submit your pull request for review. <br><br><br><br><br><br>
 
@@ -122,6 +122,6 @@ git push -u origin _BranchName_
 <img width="700" align="center" src="assests/totoro.gif" alt="cute studio ghilbi gif" />
   </p> <br>
 
-* Great job! You've just successfully completed the usual fork -> clone -> make changes -> pull request workflow, which is commonly used by contributors. Keep it up and keep contributing!
+* Great job! You've just successfully completed the usual fork -> clone -> make changes -> pull request workflow, which is commonly used by contributors. Keep it up and keep on contributing!
 
 * I will get around to merging the request when I can, I am usually good about it!
