@@ -98,7 +98,7 @@ git commit -m "Add: Added my name to list, My first contribution!"
 ```
 Push the changes to your forked repository on GitHub using the command git push origin <branch-name>, where <branch-name> is the name of the branch you are working on.
 ```
-git push
+git push -u origin your-branch-name
 ```
 <br><br>
 ## Making a Pull Request
