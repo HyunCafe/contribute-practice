@@ -110,7 +110,7 @@ git push -u origin BranchName
 <h2> Step 1 </h2>
 <img align="right" width="400" src="assests/prstep1.JPG" alt="step 1 Pull request" /> <br><br><br><br><br>
 
-* Go to your forked repository on GitHub, click on "contibute" drop down, and click on "Open pull request"<br><br><br>
+* Go to your forked repository on GitHub, click on "contribute" drop down, and click on "Open pull request"<br><br><br>
 
 
 <br><br><h2> Step 2 </h2>
@@ -118,7 +118,7 @@ git push -u origin BranchName
 
 * Fill in the title and description of the pull request to explain the changes you made!
 
-* Once you have filled out the details, click the "Create pull request" button to submit your pull request for review. <br><br><br><br><br><br>
+* After filling out the details, click the "Create pull request" button to submit your request for review. <br><br><br><br><br><br>
 
 
 ## Great job! All done! Wasn't so bad was it?
@@ -127,6 +127,6 @@ git push -u origin BranchName
 <img width="700" align="center" src="assests/totoro.gif" alt="cute studio ghilbi gif" />
   </p> <br>
 
-* Great job! You've just successfully completed the usual fork -> clone -> make changes -> pull request workflow, which is commonly used by contributors. Keep it up and keep on contributing!
+* Great job! You've just successfully completed the usual fork -> clone -> make changes -> pull request workflow, which is commonly used by contributors. Keep it up and keep on contributing!" should be reworded as "Congratulations on completing the typical fork, clone, make changes, and pull request workflow commonly used by contributors. Keep up the good work and continue contributing!
 
 * I will get around to merging the request when I can, I am usually good about it!
