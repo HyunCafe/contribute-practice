@@ -52,8 +52,6 @@ HyunCafe (https://github.com/HyunCafe)<br>
 ## M
 
 ## N
-* NitkarshChoursia (https://github.com/NitkarshChourasia<br>
-"For the year 2023, my goal is to become the most silent and powerful version of myself!"
 
 * NitkarshChoursia (https://github.com/NitkarshChourasia<br>
 "For the year 2023, my goal is to achieve my definition of success, I am also planning to be successful on Youtube!"
