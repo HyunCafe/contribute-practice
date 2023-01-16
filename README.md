@@ -118,7 +118,7 @@ git push -u origin BranchName
 
 * Fill in the title and description of the pull request to explain the changes you made!
 
-* After filling out the details, click the "Create pull request" button to submit your request for review. <br><br><br><br><br><br>
+* After filling out the details, click the "Create pull request" button to submit your request for review. <br><br><br><br><br><br><br><br><br><br>
 
 
 ## Great job! All done! Wasn't so bad was it?
@@ -129,7 +129,7 @@ git push -u origin BranchName
 
 *  Congratulations on completing the typical fork, clone, make changes, and pull request workflow commonly used by contributors. Keep up the good work and continue contributing!
 
-* I will get around to merging the request when I can, I am usually good about it!
+* I will get around to merging the request when I can, I am usually good about it! <br><br>
 
 <img  src="assests/borderseperator.gif">
 
