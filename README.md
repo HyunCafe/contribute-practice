@@ -29,7 +29,8 @@ So, fork the repo, clone it, and let's get started! <br><br><br>
 * [Fork this repo](#Fork-this-repo)
 * [Clone this repo](#Clone-this-repo)
 * [Create a branch](#Create-a-branch)
-* [Making a Pull Request](#Making-a-Pull-Request)  <br>
+* [Making a Pull Request](#Making-a-Pull-Request) 
+* [Contributors!](#Contributors!)  <br>
 
 <img width="500" src="assests/studiogif.gif" alt="cute lazy cat gif chasing butterfly" />   <br>
 
@@ -133,7 +134,7 @@ git push -u origin BranchName
 
 <img  src="assests/borderseperator.gif">
 
-<h1> Contributors! </h1>
+## Contributors!
 
 <img  src="assests/borderseperator.gif">
 
