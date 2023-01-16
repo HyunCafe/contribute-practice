@@ -8,4 +8,5 @@ In order to get this pull request (PR) merged in a reasonable amount of time, pl
 -   [ ] I added my github link
 -   [ ] I added a personal goal for this year
 
-Thank you!
+<img width="500" src="assests/congrats.gif" alt="congrats will ferrel heck celebrating" />
+Congrats and Thank you!
