@@ -182,7 +182,7 @@ git push -u origin BranchName
 
 ## N
 
-* NitkarshChoursia (https://github.com/NitkarshChourasia<br>
+* NitkarshChoursia (https://github.com/NitkarshChourasia)<br>
 "For the year 2023, my goal is to achieve my definition of success, I am also planning to be successful on Youtube!"
 
 ## O
@@ -207,6 +207,8 @@ git push -u origin BranchName
 
 ## Y
 
+* YouGotHitByGunner (https://github.com/YouGotHitByGunner)<br>
+"For the year 2023, my goal is to get a job as a Software Engineer! I'll be learning every day towards that goal and make 2023 my year! Let's go!!"<br>
+"Thank you to HyunCafe for teaching me the fundamentals of contributing to open-source projects!"
+
 ## Z
-
-
