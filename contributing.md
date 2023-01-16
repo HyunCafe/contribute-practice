@@ -20,6 +20,9 @@ HyunCafe (https://github.com/HyunCafe)<br>
 <br>
 
 ## A
+* Ashutosh Vaidya (https://github.com/ashutosh-vaidya)<br>
+"For the year 2023, my goal is to contribute more to open source projects!"
+"Thanks HyunCafe for teaching me how to contribute!"
 
 ## B
 
