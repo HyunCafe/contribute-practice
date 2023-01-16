@@ -20,9 +20,9 @@ this is the perfect place to get started.
 So, fork the repo, clone it, and let's get started! <br><br><br>
 
 ## Objectives
-* Provide an introduction and overview of the repository for first-time contributors
-* Explain the process of forking a repo, cloning it to a local machine, making changes and submitting a pull request
-* Include simple tasks for contributors to complete with step-by-step instructions on how to submit changes
+* Provide an introduction and overview of the repository for first-time contributors.
+* Explain the process of forking a repo, cloning it to a local machine, making changes and submitting a pull request.
+* Include simple tasks for contributors to complete with step-by-step instructions on how to submit changes.
 * Encourage contributors to fork and clone the repo and get started with making contributions. <br><br><br>
 
 ## Table of Contents
