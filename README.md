@@ -176,6 +176,9 @@ git push -u origin BranchName
 
 ## K
 
+* Kappa0x (https://github.com/kappa0x)<br>
+"For as long as I can remember, I have been dreaming of achieving something great. Now, I am determined to make that dream a reality before it's too late, as time is an invaluable commodity"
+
 ## L
 
 ## M
