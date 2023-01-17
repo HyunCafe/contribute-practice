@@ -16,7 +16,7 @@ HyunCafe (https://github.com/HyunCafe)<br>
 
 **Jump to:** | [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [Y](#y) | [Z](#z)
 
---- 
+---
 <br>
 
 ## A
@@ -35,6 +35,8 @@ HyunCafe (https://github.com/HyunCafe)<br>
 ## F
 
 ## G
+* Golluméo (https://github.com/gollumeo)
+* "For 2023, my goal is to be a succesful backend web developer, as well as to contribute to open source projects!"
 
 ## H
 
