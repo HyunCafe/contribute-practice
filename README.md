@@ -156,11 +156,16 @@ git push -u origin BranchName
 
 ## D
 
+* Deadrep (https://github.com/Deadrep)<br>
+"In 2023, my objective is to engage in open source projects and make connections within the technology field. My goal is to also create a tailored portfolio that showcases my interests and passions with the ultimate aim of securing a job in my desired industry."
+
 ## E
 
 ## F
 
 ## G
+* Golluméo (https://github.com/gollumeo)
+* "For 2023, my goal is to be a succesful backend web developer, as well as to contribute to open source projects!"
 
 ## H
 
