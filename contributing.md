@@ -30,6 +30,9 @@ HyunCafe (https://github.com/HyunCafe)<br>
 
 ## D
 
+* Deadrep (https://github.com/Deadrep)<br>
+"In 2023, my objective is to engage in open source projects and make connections within the technology field. My goal is to also create a tailored portfolio that showcases my interests and passions with the ultimate aim of securing a job in my desired industry."
+
 ## E
 
 ## F
