@@ -146,9 +146,10 @@ git push -u origin BranchName
 <br>
 
 ## A
-* Ashutosh Vaidya (https://github.com/ashutosh-vaidya)<br>
-"For the year 2023, my goal is to contribute more to open source projects!"
-"Thanks HyunCafe for teaching me how to contribute!"
+
+- Ashutosh Vaidya (https://github.com/ashutosh-vaidya)<br>
+  "For the year 2023, my goal is to contribute more to open source projects!"
+  "Thanks HyunCafe for teaching me how to contribute!"
 
 ## B
 
@@ -156,24 +157,25 @@ git push -u origin BranchName
 
 ## D
 
-* Deadrep (https://github.com/Deadrep)<br>
-"In 2023, my objective is to engage in open source projects and make connections within the technology field. My goal is to also create a tailored portfolio that showcases my interests and passions with the ultimate aim of securing a job in my desired industry."
+- Deadrep (https://github.com/Deadrep)<br>
+  "In 2023, my objective is to engage in open source projects and make connections within the technology field. My goal is to also create a tailored portfolio that showcases my interests and passions with the ultimate aim of securing a job in my desired industry."
 
 ## E
 
 ## F
 
 ## G
-* Golluméo (https://github.com/gollumeo)
-* "For 2023, my goal is to be a succesful backend web developer, as well as to contribute to open source projects!"
+
+- Golluméo (https://github.com/gollumeo)
+- "For 2023, my goal is to be a succesful backend web developer, as well as to contribute to open source projects!"
 
 ## H
 
-* HyunCafe (https://github.com/HyunCafe)<br>
-"For the year 2023, my goal is to contribute more to open source projects!"
+- HyunCafe (https://github.com/HyunCafe)<br>
+  "For the year 2023, my goal is to contribute more to open source projects!"
 
-* HyunPrac (https://github.com/HyunPrac)<br>
-"For the year 2023, my goal is to get more quality sleep!"
+- HyunPrac (https://github.com/HyunPrac)<br>
+  "For the year 2023, my goal is to get more quality sleep!"
 
 ## I
 
@@ -181,8 +183,8 @@ git push -u origin BranchName
 
 ## K
 
-* Kappa0x (https://github.com/kappa0x)<br>
-"For as long as I can remember, I have been dreaming of achieving something great. Now, I am determined to make that dream a reality before it's too late, as time is an invaluable commodity"
+- Kappa0x (https://github.com/kappa0x)<br>
+  "For as long as I can remember, I have been dreaming of achieving something great. Now, I am determined to make that dream a reality before it's too late, as time is an invaluable commodity"
 
 ## L
 
@@ -190,8 +192,8 @@ git push -u origin BranchName
 
 ## N
 
-* NitkarshChoursia (https://github.com/NitkarshChourasia)<br>
-"For the year 2023, my goal is to achieve my definition of success, I am also planning to be successful on Youtube!"
+- NitkarshChoursia (https://github.com/NitkarshChourasia)<br>
+  "For the year 2023, my goal is to achieve my definition of success, I am also planning to be successful on Youtube!"
 
 ## O
 
@@ -202,6 +204,9 @@ git push -u origin BranchName
 ## R
 
 ## S
+
+- Siri-RTNP (https://github.com/Siri-RTNP)<br>
+  "My goal in 2023 is to land a job as a web developer and pass the German B2 test!"
 
 ## T
 
@@ -215,8 +220,8 @@ git push -u origin BranchName
 
 ## Y
 
-* YouGotHitByGunner (https://github.com/YouGotHitByGunner)<br>
-"For the year 2023, my goal is to get a job as a Software Engineer! I'll be learning every day towards that goal and make 2023 my year! Let's go!!"<br>
-"Thank you to HyunCafe for teaching me the fundamentals of contributing to open-source projects!"
+- YouGotHitByGunner (https://github.com/YouGotHitByGunner)<br>
+  "For the year 2023, my goal is to get a job as a Software Engineer! I'll be learning every day towards that goal and make 2023 my year! Let's go!!"<br>
+  "Thank you to HyunCafe for teaching me the fundamentals of contributing to open-source projects!"
 
 ## Z
