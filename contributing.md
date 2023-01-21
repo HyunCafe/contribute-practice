@@ -80,6 +80,10 @@ HyunCafe (https://github.com/HyunCafe)<br>
 
 - rafaelnacle (https://github.com/rafaelnacle)<br>
   "In 2023 I want to find myself a programming job and contribute more to coding communities. Also working to stream and make Youtube videos."
+
+- Ru Chern Chong (https://github.com/RuChernChong)<br>
+  "2023 is the year of self investing."
+  
 ## S
 
 - Siri-RTNP (https://github.com/Siri-RTNP)<br>
