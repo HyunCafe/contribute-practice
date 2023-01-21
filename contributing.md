@@ -78,6 +78,9 @@ HyunCafe (https://github.com/HyunCafe)<br>
 
 ## R
 
+- Ru Chern Chong (https://github.com/RuChernChong)<br>
+  "2023 is the year of self investing."
+
 ## S
 
 - Siri-RTNP (https://github.com/Siri-RTNP)<br>
