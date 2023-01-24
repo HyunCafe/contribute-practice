@@ -192,8 +192,8 @@ git push -u origin BranchName
 
 ## N
 
--Namit Malasi(https://github.com/namitmalasi)
-"In 2023 my goal will be to contribute to the open source community as much as possible."
+- Namit Malasi(https://github.com/namitmalasi)
+ "In 2023 my goal will be to contribute to the open source community as much as possible."
 
 - NitkarshChoursia (https://github.com/NitkarshChourasia)<br>
   "For the year 2023, my goal is to achieve my definition of success, I am also planning to be successful on Youtube!"
