@@ -190,6 +190,9 @@ git push -u origin BranchName
 
 ## M
 
+- mhayakawa1 (https://github.com/mhayakawa1)<br>
+  "My goal for this year is to learn Angular, build a project with an API, and apply to more jobs."
+
 ## N
 
 - Namit Malasi(https://github.com/namitmalasi)
