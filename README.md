@@ -192,6 +192,9 @@ git push -u origin BranchName
 
 ## N
 
+-Namit Malasi(https://github.com/namitmalasi)
+"In 2023 my goal will be to contribute to the open source community as much as possible."
+
 - NitkarshChoursia (https://github.com/NitkarshChourasia)<br>
   "For the year 2023, my goal is to achieve my definition of success, I am also planning to be successful on Youtube!"
 
@@ -208,7 +211,7 @@ git push -u origin BranchName
 
 - Ru Chern Chong (https://github.com/RuChernChong)<br>
   "2023 is the year of self investing."
-  
+
 ## S
 
 - Siri-RTNP (https://github.com/Siri-RTNP)<br>
