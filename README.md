@@ -209,6 +209,9 @@ git push -u origin BranchName
 
 ## R
 
+- Rakesh Chotaliya (https://github.com/RakeshC7)<br>
+  "I want to Contribute in Open-source project as possible as i can for the year of 2023. well started my journey with this repo. and many more repos. in progress..., Thanks HyunCafe.✨✨"
+
 - rafaelnacle (https://github.com/rafaelnacle)<br>
   "In 2023 I want to find myself a programming job and contribute more to coding communities. Also working to stream and make Youtube videos."
 
