@@ -93,6 +93,9 @@ HyunCafe (https://github.com/HyunCafe)<br>
 - Ru Chern Chong (https://github.com/RuChernChong)<br>
   "2023 is the year of self investing."
 
+- rcDeveloping (https://github.com/rcDeveloping)<br>
+  "2023 is the year to learn Python for data science!"
+
 ## S
 
 - Siri-RTNP (https://github.com/Siri-RTNP)<br>
