@@ -221,6 +221,9 @@ git push -u origin BranchName
 - Ru Chern Chong (https://github.com/RuChernChong)<br>
   "2023 is the year of self investing."
 
+- Ramona Ekanayake (https://github.com/Ramzynco)
+  "Its the year of SKIllING! "I am" becomming a JAVA FULL STACK DEVELOPER" 
+
 ## S
 
 - Siri-RTNP (https://github.com/Siri-RTNP)<br>
