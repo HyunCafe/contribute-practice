@@ -3,8 +3,8 @@ In order to get this pull request (PR) merged in a reasonable amount of time, pl
 
 ## Pull Request Requirements
 <!-- Replace the whitespace between the square brackets with an 'x', e.g. [x]. After you create the PR, they will become checkboxes that you can click on. -->
--   [ ] I have followed the directions and format under contributing.md
--   [ ] My username is under the correct alphabetical category
+-   [ ] I have followed the directions and format under contributing.md and readme.md
+-   [ ] Arrange your username in alphabetical order based on the first letter, then the second letter, and so on. (For example, if your username is "JohnDoe", it should         be grouped under the "J" category and placed in alphabetical order based on the next letter "o" and so on.
 -   [ ] I added my github link
 -   [ ] I added a personal goal for this year
 
