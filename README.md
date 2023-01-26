@@ -85,7 +85,9 @@ I personally use vs code, so I would type:
 code .
 ```
 
-*  Follow the directions under the contributing.md and now lets commit your changes!
+*  Follow the directions under the contributing.md, and once you've finished, do the same process for readme.md (so that your username and quotes are displayed in both files)
+
+*   Now lets commit your changes!
 
 *  Remember the order for git best practices! <br>
 git status >> git add (files changed) >> git commit -m "insert short description of changes made" >> git push
@@ -94,7 +96,7 @@ type:
 ```
 git status
 ```
-now you can see the files that were changed, now add them
+now you can see the files that were changed, now add them (In this case, it should be contributing.md and readme.md)
 ```
 git add (files changed)
 ```
