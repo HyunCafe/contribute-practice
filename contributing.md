@@ -2,11 +2,13 @@
 
 <h1> Directions </h1>
 
-- Go under the corresponding first letter for your github username (Try to follow alphabetical order precedence)
+- Go under the corresponding first letter for your github username. Arrange your username in alphabetical order based on the first letter, then the second letter, and so on. (For example, if your username is "JohnDoe", it should be grouped under the "J" category and placed in alphabetical order based on the next letter "o" and so on.
 
 - Follow this format:
   Your Github Username (Github Link)
   "One Goal for this current year"
+  
+- Once you finished adding your username here, remember to copy and paste it into the readme.md in the same place so your username and quotes can be displayed in both!
 
 <br><h2> **Example** </h2>
 HyunCafe (https://github.com/HyunCafe)<br>
