@@ -84,6 +84,9 @@ HyunCafe (https://github.com/HyunCafe)<br>
 
 ## P
 
+- Pdzoc (https://github.com/Pdzoc)<br>
+"It's not exactly my first contribution, but I like the idea that this repository is like a time capsule. For this year I would like to get +100 solved tasks in certain site with coding chalenges, and trying riding." <br>
+
 ## Q
 
 ## R

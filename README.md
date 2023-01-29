@@ -239,6 +239,9 @@ git push -u origin BranchName
 
 ## P
 
+- Pdzoc (https://github.com/Pdzoc)<br>
+"It's not exactly my first contribution, but I like the idea that this repository is like a time capsule. For this year I would like to get +100 solved tasks in certain site with coding chalenges, and trying riding." <br>
+
 ## Q
 
 ## R
@@ -251,11 +254,13 @@ git push -u origin BranchName
 
 - Ramona Ekanayake (https://github.com/Ramzynco) <br>
   "Its the year of SKIllING! "I am" becomming a JAVA FULL STACK DEVELOPER"
+
 - rcDeveloping (https://github.com/rcDeveloping)<br>
   "2023 is the year to learn Python for data science!"
 
 - Ru Chern Chong (https://github.com/RuChernChong)<br>
   "2023 is the year of self investing."
+
 
 ## S
 
