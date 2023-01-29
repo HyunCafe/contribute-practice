@@ -24,10 +24,6 @@ HyunCafe (https://github.com/HyunCafe)<br>
 
 ## A
 
-- Israel Fitsum (https://github.com/codeXXripper)<br>
-  " The one with the Year 2023,where I will contribute with open source projects!"
-
-
 ## B
 
 ## C
@@ -58,6 +54,7 @@ HyunCafe (https://github.com/HyunCafe)<br>
 
 - Israel Fitsum(https://github.com/codeXXripper)<br>
   " The one with the Year 2023,where I will contribute with open source projects! 👨‍💻"
+
 ## J
 
 ## K
