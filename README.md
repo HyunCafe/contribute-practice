@@ -207,6 +207,9 @@ git push -u origin BranchName
 
 ## P
 
+- Pdzoc (https://github.com/Pdzoc)<br>
+"It's not exactly my first contribution, but I like the idea that this repository is like a time capsule. For this year I would like to get +100 solved tasks in certain site with coding chalenges, and trying riding." <br>
+
 ## Q
 
 ## R
@@ -217,7 +220,7 @@ git push -u origin BranchName
 - Rakesh Chotaliya (https://github.com/RakeshC7)<br>
   "I want to contribute in Open-source project as possible as i can for the year of 2023. well started my journey with this repo. and many more repos. in progress, Thanks HyunCafe.✨✨"
 
-- Ramona Ekanayake (https://github.com/Ramzynco) <br>
+- Ramona Ekanayake (https://github.com/Ramzynco)<br>
   "Its the year of SKIllING! "I am" becomming a JAVA FULL STACK DEVELOPER" 
   
 - rcDeveloping (https://github.com/rcDeveloping)<br>
@@ -225,6 +228,7 @@ git push -u origin BranchName
 
 - Ru Chern Chong (https://github.com/RuChernChong)<br>
   "2023 is the year of self investing."
+
 
 ## S
 
