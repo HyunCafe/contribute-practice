@@ -55,7 +55,7 @@ HyunCafe (https://github.com/HyunCafe)<br>
   "For the year 2023, my goal is to get more quality sleep!"
 
 ## I
-Israel Fitsum (https://github.com/codeXXripper)<br>
+- Israel Fitsum (https://github.com/codeXXripper)<br>
   " The one with the Year 2023,where I will contribute with open source projects! 👨‍💻"
 ## J
 
