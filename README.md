@@ -210,8 +210,8 @@ git push -u origin BranchName
 
 ## I
 
-Israel Fitsum (https://github.com/codeXXripper)<br>
-" The one with the Year 2023,where I will contribute with open source projects!"
+- Israel Fitsum (https://github.com/codeXXripper)<br>
+  " The one with the Year 2023,where I will contribute with open source projects!"
 
 ## J
 
