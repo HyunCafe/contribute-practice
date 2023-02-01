@@ -275,6 +275,9 @@ git push -u origin BranchName
 
 ## W
 
+- WitchingHr (https://github.com/WitchingHr)<br>
+  "My goal in 2023 is to create a fitness tracker application using React Native and show it off to employers to help land myself a job. 1% BETTER EVERY DAY 💪"
+
 ## X
 
 ## Y
