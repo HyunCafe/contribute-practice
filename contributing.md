@@ -111,6 +111,9 @@ HyunCafe (https://github.com/HyunCafe)<br>
 
 ## T
 
+- TomeSprout (https://github.com/TomeSprout)<br>
+  "Let's fulfill this full-time Full Stack role, full stop. Also need to get these Go apps launched and contribute to projects outside of my comfort zone. 🌱 -- Cool stuff @HyunCafe"
+
 ## U
 
 ## V
