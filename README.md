@@ -293,3 +293,7 @@ git push -u origin BranchName
   "Thank you to HyunCafe for teaching me the fundamentals of contributing to open-source projects!"
 
 ## Z
+
+<!-- @cassiofb-dev: Thanks for the initative HyunCafe it was cool and fun! -->
+<!-- @cassiofb-dev: I think it would be funny to keep this comments -->
+<!-- @cassiofb-dev: People will only see this with the source code :p -->
