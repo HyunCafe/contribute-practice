@@ -164,7 +164,11 @@ git push -u origin BranchName
 
 <img  src="assests/borderseperator.gif">
 
-## Contributors
+<h2 align="center">Contributors</h2>
+
+<a href="https://github.com/HyunCafe/contribute-practice/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=HyunCafe/contribute-practice" />
+</a>
 
 <img  src="assests/borderseperator.gif">
 
@@ -185,6 +189,9 @@ git push -u origin BranchName
 ## B
 
 ## C
+
+- Cássio Souza (https://github.com/cassiofb-dev)<br>
+  "For the year 2023, I want to get my CS degree and start a master's degree abroad!"
 
 ## D
 
@@ -290,3 +297,7 @@ git push -u origin BranchName
   "Thank you to HyunCafe for teaching me the fundamentals of contributing to open-source projects!"
 
 ## Z
+
+<!-- @cassiofb-dev: Thanks for the initative HyunCafe it was cool and fun! -->
+<!-- @cassiofb-dev: I think it would be funny to keep this comments -->
+<!-- @cassiofb-dev: People will only see this with the source code :p -->
