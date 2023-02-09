@@ -186,6 +186,9 @@ git push -u origin BranchName
 
 ## C
 
+- Cássio Souza (https://github.com/cassiofb-dev)<br>
+  "For the year 2023, I want to get my CS degree and start a master's degree abroad!"
+
 ## D
 
 - Deadrep (https://github.com/Deadrep)<br>
