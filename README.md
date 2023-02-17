@@ -186,6 +186,9 @@ git push -u origin BranchName
   "For the year 2023, my goal is to contribute more to open source projects!"
   "Thanks HyunCafe for teaching me how to contribute!"
 
+- AugustoC01 (https://github.com/AugustoC01)<br>
+  "For the year 2023, my goal is to continue learning and to get my first It job!"
+
 ## B
 
 ## C
@@ -247,7 +250,7 @@ git push -u origin BranchName
 ## P
 
 - Pdzoc (https://github.com/Pdzoc)<br>
-"It's not exactly my first contribution, but I like the idea that this repository is like a time capsule. For this year I would like to get +100 solved tasks in certain site with coding chalenges, and trying riding." <br>
+  "It's not exactly my first contribution, but I like the idea that this repository is like a time capsule. For this year I would like to get +100 solved tasks in certain site with coding chalenges, and trying riding." <br>
 
 ## Q
 
@@ -267,7 +270,6 @@ git push -u origin BranchName
 
 - Ru Chern Chong (https://github.com/RuChernChong)<br>
   "2023 is the year of self investing."
-
 
 ## S
 

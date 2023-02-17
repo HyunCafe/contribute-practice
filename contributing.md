@@ -7,7 +7,6 @@
 - Follow this format:
   Your Github Username (Github Link)
   "One Goal for this current year"
-  
 - Once you finished adding your username here, remember to copy and paste it into the readme.md in the same place so your username and quotes can be displayed in both!
 
 <br><h2> **Example** </h2>
@@ -23,6 +22,9 @@ HyunCafe (https://github.com/HyunCafe)<br>
 <br>
 
 ## A
+
+- AugustoC01 (https://github.com/AugustoC01)<br>
+  "For the year 2023, my goal is to continue learning and to get my first It job!"
 
 ## B
 
@@ -75,7 +77,7 @@ HyunCafe (https://github.com/HyunCafe)<br>
 ## N
 
 - Namit Malasi(https://github.com/namitmalasi)
- "In 2023 my goal will be to contribute to the open source community as much as possible."
+  "In 2023 my goal will be to contribute to the open source community as much as possible."
 
 - NitkarshChoursia (https://github.com/NitkarshChourasia)<br>
   "For the year 2023, my goal is to achieve my definition of success, I am also planning to be successful on Youtube!"
@@ -85,7 +87,7 @@ HyunCafe (https://github.com/HyunCafe)<br>
 ## P
 
 - Pdzoc (https://github.com/Pdzoc)<br>
-"It's not exactly my first contribution, but I like the idea that this repository is like a time capsule. For this year I would like to get +100 solved tasks in certain site with coding chalenges, and trying riding." <br>
+  "It's not exactly my first contribution, but I like the idea that this repository is like a time capsule. For this year I would like to get +100 solved tasks in certain site with coding chalenges, and trying riding." <br>
 
 ## Q
 
@@ -98,14 +100,12 @@ HyunCafe (https://github.com/HyunCafe)<br>
   "I want to contribute in Open-source project as possible as i can for the year of 2023. well started my journey with this repo. and many more repos. in progress, Thanks HyunCafe.✨✨"
 
 - Ramona Ekanayake (https://github.com/Ramzynco)<br>
-  "Its the year of SKIllING! "I am" becomming a JAVA FULL STACK DEVELOPER" 
-  
+  "Its the year of SKIllING! "I am" becomming a JAVA FULL STACK DEVELOPER"
 - rcDeveloping (https://github.com/rcDeveloping)<br>
   "2023 is the year to learn Python for data science!"
 
 - Ru Chern Chong (https://github.com/RuChernChong)<br>
   "2023 is the year of self investing."
-
 
 ## S
 
