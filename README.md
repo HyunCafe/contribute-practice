@@ -285,6 +285,9 @@ git push -u origin BranchName
 
 ## V
 
+- VulcanWM (https://github.com/VulcanWM)<br>
+  "My goal in 2023 is to contribute to more open source projects!"
+
 ## W
 
 - WitchingHr (https://github.com/WitchingHr)<br>
