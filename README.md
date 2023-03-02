@@ -273,6 +273,9 @@ git push -u origin BranchName
 
 ## S
 
+- 5idneyD (https://github.com/5idneyD)<br>
+  "My goal in 2023 is to become proficient in Rust, and expand my accounting website"
+
 - Siri-RTNP (https://github.com/Siri-RTNP)<br>
   "My goal in 2023 is to land a job as a web developer and pass the German B2 test!"
 
