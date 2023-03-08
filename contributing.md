@@ -95,6 +95,8 @@ HyunCafe (https://github.com/HyunCafe)<br>
 
 - rafaelnacle (https://github.com/rafaelnacle)<br>
   "In 2023 I want to find myself a programming job and contribute more to coding communities. Also working to stream and make Youtube videos."
+  
+- RahulKrishna (https://github.com/RahulKrishna-A)<br>"In 2023 my goal is to make more open source contributions and increase my knowledge in the field of web development"
 
 - Rakesh Chotaliya (https://github.com/RakeshC7)<br>
   "I want to contribute in Open-source project as possible as i can for the year of 2023. well started my journey with this repo. and many more repos. in progress, Thanks HyunCafe.✨✨"
@@ -106,8 +108,6 @@ HyunCafe (https://github.com/HyunCafe)<br>
 
 - Ru Chern Chong (https://github.com/RuChernChong)<br>
   "2023 is the year of self investing."
-
-- RahulKrishna (https://github.com/RahulKrishna-A)<br>"In 2023 my goal is to make more open source contributions and increase my knowledge in the field of web development"
 
 ## S
 
