@@ -60,6 +60,9 @@ HyunCafe (https://github.com/HyunCafe)<br>
 - Israel Fitsum(https://github.com/codeXXripper)<br>
   " The one with the Year 2023,where I will contribute with open source projects! 👨‍💻"
 
+- Idil (https://github.com/Iadee)<br>
+  " My goal for 2023 is to be a full-stack developer and contribute to more open source projects."
+
 ## J
 
 ## K
@@ -95,7 +98,6 @@ HyunCafe (https://github.com/HyunCafe)<br>
 
 - rafaelnacle (https://github.com/rafaelnacle)<br>
   "In 2023 I want to find myself a programming job and contribute more to coding communities. Also working to stream and make Youtube videos."
-  
 - RahulKrishna (https://github.com/RahulKrishna-A)<br>"In 2023 my goal is to make more open source contributions and increase my knowledge in the field of web development"
 
 - Rakesh Chotaliya (https://github.com/RakeshC7)<br>
@@ -113,7 +115,7 @@ HyunCafe (https://github.com/HyunCafe)<br>
 
 - 5idneyD (https://github.com/5idneyD)<br>
   "My goal in 2023 is to become proficient in Rust, and expand my accounting website"
- 
+
 - Siri-RTNP (https://github.com/Siri-RTNP)<br>
   "My goal in 2023 is to land a job as a web developer and pass the German B2 test!"
 
@@ -125,6 +127,7 @@ HyunCafe (https://github.com/HyunCafe)<br>
 ## U
 
 ## V
+
 - VulcanWM (https://github.com/VulcanWM)<br>
   "My goal in 2023 is to contribute to more open source projects!"
 
