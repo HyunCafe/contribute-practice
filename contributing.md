@@ -105,6 +105,7 @@ HyunCafe (https://github.com/HyunCafe)<br>
 
 - Ramona Ekanayake (https://github.com/Ramzynco)<br>
   "Its the year of SKIllING! "I am" becomming a JAVA FULL STACK DEVELOPER"
+
 - rcDeveloping (https://github.com/rcDeveloping)<br>
   "2023 is the year to learn Python for data science!"
 
