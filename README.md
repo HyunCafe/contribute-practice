@@ -238,6 +238,9 @@ git push -u origin BranchName
 
 ## M
 
+- MartinsMind (https://github.com/martinsmind)<br>
+  "For the year 2023, my goal is to learn Python, C and JavaScript. Also contribute more to open source projects!" <br><br>
+  
 - mhayakawa1 (https://github.com/mhayakawa1)<br>
   "My goal for this year is to learn Angular, build a project with an API, and apply to more jobs."
 
