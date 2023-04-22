@@ -85,8 +85,13 @@ HyunCafe (https://github.com/HyunCafe)<br>
 - Namit Malasi(https://github.com/namitmalasi)
   "In 2023 my goal will be to contribute to the open source community as much as possible."
 
+- Niraj Deshmukh(https://github.com/NirajD10)<br>
+  "This year, I am going to follow passionate as Full stack developer and land high paying job as well as contribute github repo as
+  much as I can!"
+
 - NitkarshChoursia (https://github.com/NitkarshChourasia)<br>
   "For the year 2023, my goal is to achieve my definition of success, I am also planning to be successful on Youtube!"
+
 
 ## O
 
