@@ -260,6 +260,9 @@ git push -u origin BranchName
 
 ## P
 
+- Peter Dinh (https://github.com/PeterDevelops)<br>
+  "A goal in 2023 for me would be to complete the foundation section of The Odin Project and create  a lot of projects to put on my personal portfolio" <br>
+
 - Pdzoc (https://github.com/Pdzoc)<br>
   "It's not exactly my first contribution, but I like the idea that this repository is like a time capsule. For this year I would like to get +100 solved tasks in certain site with coding chalenges, and trying riding." <br>
 
