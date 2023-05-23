@@ -92,7 +92,6 @@ HyunCafe (https://github.com/HyunCafe)<br>
 - NitkarshChoursia (https://github.com/NitkarshChourasia)<br>
   "For the year 2023, my goal is to achieve my definition of success, I am also planning to be successful on Youtube!"
 
-
 ## O
 
 ## P
@@ -101,7 +100,7 @@ HyunCafe (https://github.com/HyunCafe)<br>
   "It's not exactly my first contribution, but I like the idea that this repository is like a time capsule. For this year I would like to get +100 solved tasks in certain site with coding chalenges, and trying riding." <br>
 
 - Peter Dinh (https://github.com/PeterDevelops)<br>
-  "A goal in 2023 for me would be to complete the foundation section of The Odin Project and create  a lot of projects to put on my personal portfolio" <br>
+  "A goal in 2023 for me would be to complete the foundation section of The Odin Project and create a lot of projects to put on my personal portfolio" <br>
 
 ## Q
 
@@ -130,6 +129,9 @@ HyunCafe (https://github.com/HyunCafe)<br>
 
 - Siri-RTNP (https://github.com/Siri-RTNP)<br>
   "My goal in 2023 is to land a job as a web developer and pass the German B2 test!"
+
+- Shubham Yeram (https://github.com/0x1Shub)<br>
+  "My goal in 2023 is to become a Blockchain developer."
 
 ## T
 
