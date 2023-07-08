@@ -39,7 +39,8 @@ HyunCafe (https://github.com/HyunCafe)<br>
   "In 2023, my objective is to engage in open source projects and make connections within the technology field. My goal is to also create a tailored portfolio that showcases my interests and passions with the ultimate aim of securing a job in my desired industry."
 
 ## E
-
+- EddoCod3 (https://github.com/eddoCod3) <br>
+ "In 2023 i want to improve my knowledge, and also learn more tech stacks, and create a first prototype of my portfolio , to show in social media."
 ## F
 
 ## G
