@@ -231,8 +231,7 @@ git push -u origin BranchName
 ## J
 
 - Joshua (https://github.com/Jorshuare)<br>
-"My goal for the remaining part of this year is to do more Machine Learning projects and push t
-hem to my GitHub)"
+"My goal for the remaining part of this year is to do more Machine Learning projects and push them to my GitHub)"
 
 ## K
 
