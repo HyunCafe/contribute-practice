@@ -65,6 +65,9 @@ HyunCafe (https://github.com/HyunCafe)<br>
   " The one with the Year 2023,where I will contribute with open source projects! 👨‍💻"
 
 ## J
+- Jaron Wenger (https://github.com/JaronWenger)<br>
+  "I want to become a javascript legend."
+
 - Joshua (https://github.com/Jorshuare)<br>
 "My goal for the remaining part of this year is to do more Machine Learning projects and push them to my GitHub)"
 
