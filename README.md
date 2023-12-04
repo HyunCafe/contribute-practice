@@ -8,18 +8,12 @@
 
 ## Introduction
 
-Welcome to a beginner-friendly GitHub repository. A great place to start for a first practice contribution!
+Welcome to Your First GitHub Contribution!
 
-This repo is designed for first-time contributors to get familiar with the process
-of forking a repo, cloning it to their local machine, making changes,
-and submitting a pull request.
+This repository is the perfect starting point for those new to coding or open-source contribution. Here, you'll get hands-on practice with the basics of GitHub collaboration - from forking and cloning a repository to pushing changes and creating pull requests.
 
-I've included some simple tasks for you to complete,
-along with step-by-step instructions on how to submit your changes.
-
-Whether you're new to programming or just new to open source contributions,
-this is the perfect place to get started.
-So, fork the repo, clone it, and let's get started! <br><br><br>
+We've prepared a set of straightforward tasks to guide you through each step of the contribution process, complete with detailed instructions. Ready to embark on your open-source journey? Fork this repository, clone it to your local system, and let's dive in!
+<br><br><br>
 
 ## Objectives
 
