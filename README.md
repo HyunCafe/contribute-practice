@@ -229,6 +229,8 @@ git push -u origin BranchName
 
 
 ## J
+- Jaron Wenger (https://github.com/JaronWenger)<br>
+  "I want to become a javascript legend."
 
 - Joshua (https://github.com/Jorshuare)<br>
 "My goal for the remaining part of this year is to do more Machine Learning projects and push them to my GitHub)"
