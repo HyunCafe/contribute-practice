@@ -12,8 +12,8 @@ Welcome to Your First GitHub Contribution!
 
 This repository is the perfect starting point for those new to coding or open-source contribution. Here, you'll get hands-on practice with the basics of GitHub collaboration - from forking and cloning a repository to pushing changes and creating pull requests.
 
-We've prepared a set of straightforward tasks to guide you through each step of the contribution process, complete with detailed instructions. Ready to embark on your open-source journey? Fork this repository, clone it to your local system, and let's dive in!
-<br><br><br>
+I have prepared a set of straightforward tasks to guide you through each step of the contribution process, complete with detailed instructions. Ready to embark on your open-source journey? Fork this repository, clone it to your local system, and let's dive in!
+<br><br>
 
 ## Objectives
 
