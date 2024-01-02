@@ -78,6 +78,9 @@ HyunCafe (https://github.com/HyunCafe)<br>
 
 ## L
 
+- LinThit27 (https://github.com/LinThit27)<br>
+ "In 2024, my goal is to enhance my skills as a developer, mastering UI/UX design and gaining a deeper understanding of machine      learning."
+
 ## M
 
 - MartinsMind (https://github.com/martinsmind)<br>
