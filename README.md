@@ -183,6 +183,9 @@ git push -u origin BranchName
 - AugustoC01 (https://github.com/AugustoC01)<br>
   "For the year 2023, my goal is to continue learning and to get my first It job!"
 
+- Aiyaret-Sandhu (https://github.com/Aiyaret-Sandhu)<br>
+  "For the year 2024, my goal is to learn open source!"
+
 ## B
 
 ## C
