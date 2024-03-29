@@ -67,6 +67,9 @@ HyunCafe (https://github.com/HyunCafe)<br>
 - Israel Fitsum(https://github.com/codeXXripper)<br>
   " The one with the Year 2023,where I will contribute with open source projects! 👨‍💻"
 
+- Ian Ganza(https://github.com/i-ganza007)<br>
+  " This year I hope to have built sufficient street cred that I can show on applications and specifically I would like to contribute to a serious meaningful application"
+
 ## J
 - Jaron Wenger (https://github.com/JaronWenger)<br>
   "I want to become a javascript legend."
