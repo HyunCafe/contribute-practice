@@ -29,6 +29,9 @@ HyunCafe (https://github.com/HyunCafe)<br>
 - Aiyaret-Sandhu (https://github.com/Aiyaret-Sandhu)<br>
   "For the year 2024, my goal is to learn open source!"
 
+-anitadenn (http://github.com/anitadenn)<br>
+  "For the year 2024, my goal is to build my portfolio so i can land my first software engineering job!"
+
 ## B
 
 ## C
