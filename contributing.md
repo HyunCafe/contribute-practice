@@ -36,6 +36,9 @@ HyunCafe (https://github.com/HyunCafe)<br>
 - Cássio Souza (https://github.com/cassiofb-dev)<br>
   "For the year 2023, I want to get my CS degree and start a master's degree abroad!"
 
+- Carlos Guerrero (https://github.com/cerberlink)<br>
+  "This is my first open source contribution; I'm eager to learn more!"
+
 ## D
 
 - Deadrep (https://github.com/Deadrep)<br>
