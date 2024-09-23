@@ -176,18 +176,21 @@ git push -u origin BranchName
 
 ## A
 
+- Aiyaret-Sandhu (https://github.com/Aiyaret-Sandhu)<br>
+  "For the year 2024, my goal is to learn open source!"
+
+- anitadenn (http://github.com/anitadenn)<br>
+  "For the year 2024, my goal is to build my portfolio so i can land my first software engineering job!"
+
+- Archanisther (http://github.com/archanisther)<br>
+  "I want to be the 'all might' of technology!"
+
 - Ashutosh Vaidya (https://github.com/ashutosh-vaidya)<br>
   "For the year 2023, my goal is to contribute more to open source projects!"
   "Thanks HyunCafe for teaching me how to contribute!"
 
 - AugustoC01 (https://github.com/AugustoC01)<br>
   "For the year 2023, my goal is to continue learning and to get my first It job!"
-
-- Aiyaret-Sandhu (https://github.com/Aiyaret-Sandhu)<br>
-  "For the year 2024, my goal is to learn open source!"
-
--anitadenn (http://github.com/anitadenn)<br>
-  "For the year 2024, my goal is to build my portfolio so i can land my first software engineering job!"
 
 ## B
 
