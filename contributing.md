@@ -77,6 +77,9 @@ HyunCafe (https://github.com/HyunCafe)<br>
 
 ## I
 
+- Iambic77 (https://github.com/iambic77)<br>
+  "For 2025, my goal is to improve my coding skills & contribute to open source projects."
+
 - Idil (https://github.com/Iadee)<br>
   " My goal for 2023 is to be a full-stack developer and contribute to more open source projects."
 
