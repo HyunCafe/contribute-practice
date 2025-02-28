@@ -180,6 +180,8 @@ HyunCafe (https://github.com/HyunCafe)<br>
   "My goal in 2023 is to contribute to more open source projects!"
 
 ## W
+- WarmFreezer (https://github.com/WarmFreezer) <br>
+  "For the year 2025, my goal is to begin contributing to open source projects and strengthen my resume by being more active in extra-curricular programming activities"
 
 - Werninger (https://github.com/Werninger) <br>
   "For the year 2023, my goal is to contribute to more open source projects!"
