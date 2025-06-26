@@ -39,6 +39,9 @@ HyunCafe (https://github.com/HyunCafe)<br>
 - AugustoC01 (https://github.com/AugustoC01)<br>
   "For the year 2023, my goal is to continue learning and to get my first It job!"
 
+- Adcab (https://github.com/adcab)<br>
+  "For the year 2025, my goal is to continue improving my GitHub skills!"
+
 ## B
 
 ## C
