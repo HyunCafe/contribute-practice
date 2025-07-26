@@ -322,6 +322,8 @@ git push -u origin BranchName
 
 - Siri-RTNP (https://github.com/Siri-RTNP)<br>
   "My goal in 2023 is to land a job as a web developer and pass the German B2 test!"
+  -SawyerWetson (https://github.com/SawyerWetson)<br>
+   "My goal in 2025 is to achieve mastery of python and java check out my repo SmartUmpires and try it today!!!!"
 
 ## T
 
