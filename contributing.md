@@ -130,7 +130,9 @@ HyunCafe (https://github.com/HyunCafe)<br>
   "For the year 2023, my goal is to achieve my definition of success, I am also planning to be successful on Youtube!"
 
 ## O
-
+- Omar Ebead(https://github.com/OmarE20)
+  "It's one of my first contributions, here's to many more!"
+  
 ## P
 
 - Pdzoc (https://github.com/Pdzoc)<br>
