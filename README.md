@@ -54,8 +54,10 @@ I have prepared a set of straightforward tasks to guide you through each step of
 
 <img align="right" width="400" src="assests/clonestep1.JPG" alt="step 1 click code then ssh then copy" /> <br>
 
+<h2>Step 1</h2>
 - First, lets click on the "Code" drop down button, click on "SSH" then click the "Copy Icon" <br>
 
+<h2>Step 2</h2>
 - Then, let's go to our local machine, open the terminal, and create a new directory to put our newly cloned repo in and name it "contribute-practice"
 
 ```
