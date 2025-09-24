@@ -212,6 +212,9 @@ git push -u origin BranchName
 - Deadrep (https://github.com/Deadrep)<br>
   "In 2023, my objective is to engage in open source projects and make connections within the technology field. My goal is to also create a tailored portfolio that showcases my interests and passions with the ultimate aim of securing a job in my desired industry."
 
+denisfrd (https://github.com/denisfrd)<br>
+  "For 2025, I want to get better at programming and land a tech job."
+
 - Dhanush S Gowda (https://github.com/Dhanush-S-Gowda)<br>
   "For the year 2025, my goal is to contribute more to open source projects!"
 
