@@ -223,6 +223,10 @@ denisfrd (https://github.com/denisfrd)<br>
  "In 2023 i want to improve my knowledge, and also learn more tech stacks, and create a first prototype of my portfolio , to show in social media."
  Erjon Hashani (https://github.com/ErjonHashani)<br>
 "For 2025, my goal is to sprinkle some magic on open-source projects, break a few things, and hopefully fix them again 😎💻"
+
+- Evan (https://github.com/nave-dilay)<br>
+"Just trying to evolve everyday(2026) I suppose."
+
 ## F
 
 ## G

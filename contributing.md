@@ -70,6 +70,9 @@ denisfrd (https://github.com/denisfrd)<br>
 Erjon Hashani (https://github.com/ErjonHashani)<br>
 "For 2025, my goal is to sprinkle some magic on open-source projects, break a few things, and hopefully fix them again 😎💻"
 
+- Evan (https://github.com/nave-dilay)<br>
+"Just trying to evolve everyday(2026) I suppose."
+
 ## F
 
 ## G
