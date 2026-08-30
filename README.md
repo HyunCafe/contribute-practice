@@ -267,6 +267,9 @@ denisfrd (https://github.com/denisfrd)<br>
 - Joshua (https://github.com/Jorshuare)<br>
 "My goal for the remaining part of this year is to do more Machine Learning projects and push them to my GitHub)"
 
+- Joyof-living (https://github.com/Joyof-living)
+  "My goal for this year is to fix my bad habits."
+
 ## K
 
 - Kappa0x (https://github.com/kappa0x)<br>
