@@ -185,6 +185,9 @@ Erjon Hashani (https://github.com/ErjonHashani)<br>
 - Shubham Yeram (https://github.com/0x1Shub)<br>
   "My goal in 2023 is to become a Blockchain developer."
 
+- Suyash Sahu (https://github.com/suyashsahu00/CODING)
+  "My goal in 2026 is to master data structures and learn C++ with command over one query language."
+
 ## T
 
 - TomeSprout (https://github.com/TomeSprout)<br>
