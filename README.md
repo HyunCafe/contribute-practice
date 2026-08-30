@@ -197,6 +197,8 @@ git push -u origin BranchName
 - Adcab (https://github.com/adcab)<br>
   "For the year 2025, my goal is to continue improving my GitHub skills!"
 
+
+
 ## B
 
 ## C
@@ -305,7 +307,7 @@ denisfrd (https://github.com/denisfrd)<br>
 ## R
 
 - rafaelnacle (https://github.com/rafaelnacle)<br>
-  "In 2023 I want to find myself a programming job and contribute more to coding communities. Also working to stream and make Youtube videos."
+  "In 2023 I want to find myself a programming job and contribute more to coding communities. Also working to stream and make Youtube videos. "
 
 - RahulKrishna (https://github.com/RahulKrishna-A)
     "In 2023 my goal is to make more open source contributions and increase my knowledge in the field of web development"
