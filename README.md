@@ -52,6 +52,9 @@ I have prepared a set of straightforward tasks to guide you through each step of
 
 ## Clone this repo
 
+## DevOps Practice
+
+This change was made to practice the GitHub Fork and Pull Request workflow.
 <img align="right" width="400" src="assests/clonestep1.JPG" alt="step 1 click code then ssh then copy" /> <br>
 
 <h2>Step 1</h2>
