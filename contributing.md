@@ -154,6 +154,8 @@ Erjon Hashani (https://github.com/ErjonHashani)<br>
 - Peter Dinh (https://github.com/PeterDevelops)<br>
   "A goal in 2023 for me would be to complete the foundation section of The Odin Project and create a lot of projects to put on my personal portfolio" <br>
 
+- Pedro Santos (https://github.com/PedroMauricioDeBritoSantos)<br>
+  "A goal in 2026 for me is turn a better dev applying my git notions in my projects"
 ## Q
 
 ## R

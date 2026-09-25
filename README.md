@@ -309,6 +309,9 @@ denisfrd (https://github.com/denisfrd)<br>
 
 - Pdzoc (https://github.com/Pdzoc)<br>
   "It's not exactly my first contribution, but I like the idea that this repository is like a time capsule. For this year I would like to get +100 solved tasks in certain site with coding chalenges, and trying riding." <br>
+  
+- Pedro Santos (https://github.com/PedroMauricioDeBritoSantos)<br>
+  "A goal in 2026 for me is turn a better dev applying my git notions in my projects"
 
 ## Q
 
