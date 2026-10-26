@@ -279,7 +279,8 @@ denisfrd (https://github.com/denisfrd)<br>
 
 - LinThitHtwe (https://github.com/LinThitHtwe)<br>
  "In 2024, my goal is to enhance my skills as a developer, mastering UI/UX design and gaining a deeper understanding of machine      learning."
-
+- lakshu230 (https://github.com/lakshu230)<br>
+  "My goal is to learn open-source contribution and collaborate with developers!"
 ## M
 
 - MartinsMind (https://github.com/martinsmind)<br>
