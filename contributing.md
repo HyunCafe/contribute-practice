@@ -103,11 +103,15 @@ Erjon Hashani (https://github.com/ErjonHashani)<br>
   " This year I hope to have built sufficient street cred that I can show on applications and specifically I would like to contribute to a serious meaningful application"
 
 ## J
+
 - Jaron Wenger (https://github.com/JaronWenger)<br>
   "I want to become a javascript legend."
 
 - Joshua (https://github.com/Jorshuare)<br>
 "My goal for the remaining part of this year is to do more Machine Learning projects and push them to my GitHub)"
+
+- Jayachandran (https://github.com/Jayachandran)<br>
+  "I want to become a javascript legend."
 
 - Joyof-living (https://github.com/Joyof-living)
   "My goal for this year is to fix my bad habits."
@@ -118,7 +122,8 @@ Erjon Hashani (https://github.com/ErjonHashani)<br>
   "For as long as I can remember, I have been dreaming of achieving something great. Now, I am determined to make that dream a reality before it's too late, as time is an invaluable commodity"
 
 ## L
-
+- lakshu230 (https://github.com/lakshu230)<br>
+  "My goal is to learn open-source contribution, improve my coding skills, and collaborate with developers to build meaningful projects."
 - LinThitHtwe (https://github.com/LinThitHtwe)<br>
  "In 2024, my goal is to enhance my skills as a developer, mastering UI/UX design and gaining a deeper understanding of machine      learning."
 
