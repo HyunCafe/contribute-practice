@@ -281,6 +281,8 @@ denisfrd (https://github.com/denisfrd)<br>
   "My goal is to learn open-source contribution and collaborate with developers!"
 - LinThitHtwe (https://github.com/LinThitHtwe)<br>
  "In 2024, my goal is to enhance my skills as a developer, mastering UI/UX design and gaining a deeper understanding of machine      learning."
+- LucilleLiu23 (https://github.com/LucilleLiu23)<br>
+  "My goal for 2026 is to improve my Python and AI engineering skills and contribute to more open-source projects!
 
 ## M
 
