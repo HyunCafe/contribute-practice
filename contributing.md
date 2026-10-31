@@ -131,6 +131,8 @@ Erjon Hashani (https://github.com/ErjonHashani)<br>
 
 - mhayakawa1 (https://github.com/mhayakawa1)<br>
   "My goal for this year is to learn Angular, build a project with an API, and apply to more jobs."
+- maunta91(https://github.com/maunta91)<br>
+"My goal for 2026 is to improve my python and more consistent to work."
 
 ## N
 
