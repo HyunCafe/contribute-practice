@@ -1,383 +1,199 @@
-# <p align="center"> <img width="80" src="assests/flamey.gif" alt="flamey from studio ghilbi" /> First time Practice Contributions! <img width="80" src="assests/flamey.gif" alt="flamey from studio ghilbi" />
+<div align="center">
 
-</p>
+# Your First Open-Source Contribution
 
-<p align="center">
-<img align="center" width="700" src="assests/Coffee.gif" alt="hot coffee" />
-</p> <br>
+**Learn Git and GitHub by making one real pull request.**
 
-## Introduction
+A guided, beginner-friendly practice project. No programming experience needed—just Git Bash, a GitHub account, and one Markdown edit.
 
-Welcome to Your First GitHub Contribution!
+**[Start the Git Bash walkthrough](#your-first-contribution-step-by-step)** · [Contributor wall](contributing.md) · [Contribution rules](.github/CONTRIBUTING.md) · [Troubleshooting](docs/TROUBLESHOOTING.md)
 
-This repository is the perfect starting point for those new to coding or open-source contribution. Here, you'll get hands-on practice with the basics of GitHub collaboration - from forking and cloning a repository to pushing changes and creating pull requests.
+</div>
 
-I have prepared a set of straightforward tasks to guide you through each step of the contribution process, complete with detailed instructions. Ready to embark on your open-source journey? Fork this repository, clone it to your local system, and let's dive in!
-<br><br>
+---
 
-## Objectives
+## Welcome
 
-- Provide an introduction and overview of the repository for first-time contributors.
-- Explain the process of forking a repo, cloning it to a local machine, making changes and submitting a pull request.
-- Include simple tasks for contributors to complete with step-by-step instructions on how to submit changes.
-- Encourage contributors to fork and clone the repo and get started with making contributions. <br><br><br>
+This repository exists to teach the skills behind open-source collaboration: **fork → clone → branch → edit → commit → push → pull request**.
 
-## Table of Contents
+You'll introduce yourself on our contributor wall and share a learning goal. That is a real, small documentation contribution. The purpose is to practice **Git Bash and GitHub**, not to write code.
 
-- [Fork this repo](#Fork-this-repo)
-- [Clone this repo](#Clone-this-repo)
-- [Create a branch](#Create-a-branch)
-- [Making a Pull Request](#Making-a-Pull-Request)
-- [Contributors](#Contributors) <br>
+> **Your first challenge:** Change **one file** (`contributing.md`), create **one commit**, and open **one pull request**. There is no need to edit the README or install a build system.
 
-<img width="500" src="assests/studiogif.gif" alt="cute lazy cat gif chasing butterfly" /> <br>
+## The journey
 
-## Fork this repo
-
-<h2> Step 1 </h2>
-<img align="right" width="400" src="assests/forkrepo.JPG" alt="step 1 fork this repo drown down button" /> <br>
-
-- Click on the "Fork" drop down button located in the top right corner of the page.
-
-- Click on the "+ Create a new fork\* <br><br><br>
-
-<h2> Step 2 </h2>
-<img align="right" width="550" src="assests/createforkrepo.JPG" alt="step 2 fork this repository addition" /> <br>
-
-- Click on "Create fork" <br><br>
-
-- Once the repository has been forked, you will be taken to the forked repository's page. <br><br>
-
-- This will be a copy of the original repository, but it will be under your account. <br><br><br><br><br><br><br><br>
-
-## Clone this repo
-
-## DevOps Practice
-
-This change was made to practice the GitHub Fork and Pull Request workflow.
-<img align="right" width="400" src="assests/clonestep1.JPG" alt="step 1 click code then ssh then copy" /> <br>
-
-<h2>Step 1</h2>
-- First, lets click on the "Code" drop down button, click on "SSH" then click the "Copy Icon" <br>
-
-<h2>Step 2</h2>
-- Then, let's go to our local machine, open the terminal, and create a new directory to put our newly cloned repo in and name it "contribute-practice"
-
-```
-mkdir contribute-practice
+```text
+GitHub website                 Your computer (Git Bash)                  GitHub website
+┌──────────────────┐           ┌────────────────────────────┐           ┌─────────────────────┐
+│ Fork the project │ ────────► │ Clone your fork            │           │                     │
+└──────────────────┘           │ Create your branch         │           │                     │
+                               │ Edit contributing.md only  │           │                     │
+                               │ Review → Commit → Push     │ ────────► │ Open pull request   │
+                               └────────────────────────────┘           │ Get feedback        │
+                                                                        └─────────────────────┘
 ```
 
-- and cd into the directory
+| Term | What it means |
+| --- | --- |
+| **Fork** | Your personal copy of this GitHub repository. |
+| **Clone** | Download your fork with Git history to your computer. |
+| **Branch** | A safe place to work on your edit without changing `main`. |
+| **Commit** | Record your change in local Git history. |
+| **Push** | Send your branch and commit to your fork on GitHub. |
+| **Pull request (PR)** | Ask the original repository to review and merge your contribution. |
 
+More definitions are in the [glossary](docs/GLOSSARY.md).
+
+## Before you begin
+
+You will need:
+
+1. A [GitHub account](https://github.com/signup) that you can sign in to.
+2. **Git for Windows**, from the [official Git website](https://git-scm.com/downloads/win). It includes **Git Bash**. If you already use Git Bash, you can skip installation.
+3. Any text editor. **Windows Notepad** is enough for this exercise.
+
+Open **Git Bash** and verify Git is installed:
+
+```bash
+git --version
 ```
+
+**Commit identity:** Git might ask for your name/email when you make your first commit. For privacy, consider using your [GitHub no-reply email address](https://docs.github.com/en/account-and-profile/how-tos/email-preferences/setting-your-commit-email-address). Don't copy another person's identity.
+
+## Your first contribution: step by step
+
+### 1. Fork this repository on GitHub
+
+1. Sign in to GitHub and open **[HyunCafe/contribute-practice](https://github.com/HyunCafe/contribute-practice)**.
+2. Select **Fork** → **Create fork**.
+3. Confirm the address now starts with `https://github.com/YOUR_USERNAME/contribute-practice` where `YOUR_USERNAME` is **your own** GitHub username.
+
+> You need write access to your fork. You do not need write access to the original repository.
+
+### 2. Clone **your fork** using Git Bash
+
+Open Git Bash in a folder where you'd like to keep your practice project (your home directory is fine).
+
+Replace `YOUR_USERNAME` with your real GitHub username **before running the command**:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/contribute-practice.git
 cd contribute-practice
 ```
 
-- Clone the forked repository to your local machine by typing git clone followed by the SSH link that you copied.
+**Check that you cloned the right repository:**
 
-```
-git clone copyoftheurlssh
-```
-
-<br><br>
-
-## Create a branch
-
-- Now let's create a new branch through the terminal using the git switch BranchName.
-
-Replace BranchName with the name of the new branch you want to create.
-
-For example:
-
-```
-git switch -c branchTest
+```bash
+git remote -v
 ```
 
-<br><br>
+Both `origin` URLs should refer to **your fork**. Do not clone `HyunCafe/contribute-practice` when you intend to push to your own fork.
 
-## Contribution time!
+> `git clone` creates the project folder itself. If you see `destination path ... already exists`, see [troubleshooting](docs/TROUBLESHOOTING.md) rather than deleting a folder.
 
-- Open the contributing.md file, you can use a text editor of your choice, for example, nano contributing.md or vi contributing.md
-  I personally use vs code, so I would type:
+### 3. Create a branch for your change
 
-```
-code .
-```
-
-- Follow the directions under the contributing.md, and once you've finished, do the same process for readme.md (so that your username and quotes are displayed in both files)
-
-- Now lets commit your changes!
-
-- Remember the order for git best practices! <br>
-  git status >> git add (files changed) >> git commit -m "insert short description of changes made" >> git push
-
-type:
-
-```
-git status
+```bash
+git switch -c add-my-first-contribution
 ```
 
-now you can see the files that were changed, now add them (In this case, it should be contributing.md and readme.md)
+This creates and switches to a separate branch. Your local `main` stays unchanged.
 
-```
-git add (files changed)
-```
+### 4. Edit **only** `contributing.md`
 
-now lets commit our changes with a short description
+If you're using Git Bash on Windows, open the file in Notepad:
 
-```
-git commit -m "Add: Added my name to list, My first contribution!"
+```bash
+notepad.exe contributing.md
 ```
 
-Push the changes to your forked repository on GitHub using the command git push origin BranchName, where BranchName is the name of the branch you are working on.
+Find the letter matching **the first character of your GitHub username**, not your display name. Insert your entry in case-insensitive alphabetical order: compare the first character, then the second, third, and so on. If a letter section is missing, create it in the proper position. Handles starting with digits belong in `## 0–9 and symbols` at the end.
 
+Use this **two-line Markdown format**, replacing the example handle, profile URL, and goal with your own information:
+
+```md
+- **ExampleUser** ([`@ExampleUser`](https://github.com/ExampleUser))
+  > "My goal is to learn how to contribute to open source."
 ```
-git push -u origin BranchName
+
+For example, `@anna` comes before `@anne`, and `@anne` comes before `@anton`. Your display name can be different from your `@handle`; the **handle in your profile link** determines the order.
+
+**Keep your edit limited to your entry.** Don't edit `README.md`, rewrite anyone else's goal, or reorganize existing records in your first PR. The contributor list is public, so don't include private contact information or passwords.
+
+Save the file in Notepad when done.
+
+### 5. Review the change before committing
+
+Return to Git Bash:
+
+```bash
+git status --short
+git diff -- contributing.md
+git diff --check
 ```
 
-<br><br>
+You should see **only `contributing.md` changed**. Check your spelling, GitHub profile URL, Markdown formatting, and alphabetical placement. If other files changed, investigate before staging or committing.
 
-## Making a Pull Request
+### 6. Make **one commit**
 
-<h2> Step 1 </h2>
-<img align="right" width="400" src="assests/prstep1.JPG" alt="step 1 Pull request" /> <br><br><br><br><br>
+Stage **only the contributor file**, review the staged change, and commit it:
 
-- Go to your forked repository on GitHub, click on "contribute" drop down, and click on "Open pull request"<br><br><br>
+```bash
+git add contributing.md
+git diff --cached --name-only
+git diff --cached --check
+git commit -m "docs: add my contributor profile"
+```
 
-<br><br><h2> Step 2 </h2>
-<img align="right" width="400" src="assests/prstep2.JPG" alt="step 2 Pull request" /> <br>
+The staged-file list should contain only `contributing.md`. If Git asks you to configure your author identity, see [troubleshooting](docs/TROUBLESHOOTING.md#git-doesnt-know-who-i-am).
 
-- Fill in the title and description of the pull request to explain the changes you made!
+### 7. Push your branch to your fork
 
-- After filling out the details, click the "Create pull request" button to submit your request for review. <br><br><br><br><br><br><br><br><br><br>
+```bash
+git push -u origin HEAD
+```
 
-## Great job! All done! Wasn't so bad was it?
+If a sign-in window opens, use the official GitHub authentication flow. **GitHub account passwords are not used for Git over HTTPS.** Never paste a token or a two-factor code into a GitHub issue or public PR comment.
 
-<p align="center"><br>
-<img width="700" align="center" src="assests/totoro.gif" alt="cute studio ghilbi gif" />
-  </p> <br>
+### 8. Open your pull request
 
-- Congratulations on completing the typical fork, clone, make changes, and pull request workflow commonly used by contributors. Keep up the good work and continue contributing!
+1. Open **your fork** on GitHub and look for **Compare & pull request**. Alternatively select **Pull requests → New pull request**.
+2. Confirm the **base** is `HyunCafe/contribute-practice` on `main` and the **head** is your fork's new branch.
+3. Confirm the **Files changed** tab shows **only `contributing.md`**.
+4. Give the PR a clear title, such as `docs: add YOUR_USERNAME to contributors`.
+5. Briefly describe what you learned, then click **Create pull request**.
 
-- I will get around to merging the request when I can, I am usually good about it! <br><br>
+**That's the complete exercise: one file → one commit → one PR.** Your request may remain open while a maintainer reviews it. Watch for comments and follow up if changes are requested.
 
-<img  src="assests/borderseperator.gif">
+## Our contributor wall
 
-<h2 align="center">Contributors</h2>
+Meet the [community contributors and their learning goals](contributing.md). New names are sorted by **GitHub username**, case-insensitively and character-by-character. Older goals and years are part of this project's history and should not be rewritten.
 
-<a href="https://github.com/HyunCafe/contribute-practice/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=HyunCafe/contribute-practice" />
-</a>
+The wall is maintained in **`contributing.md` alone**. The README contains instructions, not a second contributor list.
 
-<img  src="assests/borderseperator.gif">
+## Frequently asked questions
+
+**Do I need to know programming?** No. Your first PR is a small Markdown edit.
+
+**Do I need Python, Node.js, SSH keys, or build tools?** No. Git Bash, GitHub, and a text editor are enough. HTTPS is the default in this tutorial; SSH is optional for experienced users.
+
+**Why use a branch?** It lets you propose an isolated change that the maintainer can review safely.
+
+**Can I edit more than one file?** For this beginner exercise, change only `contributing.md`. Larger documentation fixes are welcome as separate, focused PRs—open an issue first to discuss them.
+
+**Why hasn't my PR merged yet?** Reviews depend on maintainer availability. Creating a correct PR and participating in review are the learning goals; merging is not guaranteed.
+
+## Help and further learning
+
+- [Contribution rules and entry format](.github/CONTRIBUTING.md)
+- [Common Git Bash and GitHub problems](docs/TROUBLESHOOTING.md)
+- [Plain-language Git glossary](docs/GLOSSARY.md)
+- [Community code of conduct](CODE_OF_CONDUCT.md)
+- [Maintainer guide](docs/MAINTAINER_GUIDE.md)
+- [MIT license](LICENSE)
+
+**Learn more:** [GitHub: Contributing to a project](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project) · [Git: Getting started](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) · [Pro Git (free book)](https://git-scm.com/book/en/v2)
 
 ---
 
-**Jump to:** | [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [Y](#y) | [Z](#z)
-
----
-
-<br>
-
-## A
-
-- Aiyaret-Sandhu (https://github.com/Aiyaret-Sandhu)<br>
-  "For the year 2024, my goal is to learn open source!"
-
-- anitadenn (http://github.com/anitadenn)<br>
-  "For the year 2024, my goal is to build my portfolio so i can land my first software engineering job!"
-
-- Archanisther (http://github.com/archanisther)<br>
-  "I want to be the 'all might' of technology!"
-
-- Ashutosh Vaidya (https://github.com/ashutosh-vaidya)<br>
-  "For the year 2023, my goal is to contribute more to open source projects!"
-  "Thanks HyunCafe for teaching me how to contribute!"
-
-- AugustoC01 (https://github.com/AugustoC01)<br>
-  "For the year 2023, my goal is to continue learning and to get my first It job!"
-
-- Adcab (https://github.com/adcab)<br>
-  "For the year 2025, my goal is to continue improving my GitHub skills!"
-
-## B
-
-## C
-
-- Cássio Souza (https://github.com/cassiofb-dev)<br>
-  "For the year 2023, I want to get my CS degree and start a master's degree abroad!"
-
-  - Carlos Guerrero (https://github.com/cerberlink)<br>
-  "This is my first open source contribution; I'm eager to learn more!"
-
-## D
-
-- Deadrep (https://github.com/Deadrep)<br>
-  "In 2023, my objective is to engage in open source projects and make connections within the technology field. My goal is to also create a tailored portfolio that showcases my interests and passions with the ultimate aim of securing a job in my desired industry."
-
-denisfrd (https://github.com/denisfrd)<br>
-  "For 2025, I want to get better at programming and land a tech job."
-
-- Dhanush S Gowda (https://github.com/Dhanush-S-Gowda)<br>
-  "For the year 2025, my goal is to contribute more to open source projects!"
-
-## E
-- EddoCod3 (https://github.com/eddoCod3) <br>
- "In 2023 i want to improve my knowledge, and also learn more tech stacks, and create a first prototype of my portfolio , to show in social media."
- Erjon Hashani (https://github.com/ErjonHashani)<br>
-"For 2025, my goal is to sprinkle some magic on open-source projects, break a few things, and hopefully fix them again 😎💻"
-
-- Evan (https://github.com/nave-dilay)<br>
-"Just trying to evolve everyday(2026) I suppose."
-
-## F
-
-## G
-
-- Golluméo (https://github.com/gollumeo)
-- "For 2023, my goal is to be a succesful backend web developer, as well as to contribute to open source projects!"
-
-## H
-
-- HyunCafe (https://github.com/HyunCafe)<br>
-  "For the year 2023, my goal is to contribute more to open source projects!"
-
-- HyunPrac (https://github.com/HyunPrac)<br>
-  "For the year 2023, my goal is to get more quality sleep!"
-
-## I
-
-- Iambic77 (https://github.com/iambic77)<br>
-  "For 2025, my goal is to improve my coding skills & contribute to open source projects."
-  
-- Idil (https://github.com/Iadee)<br>
-  " My goal for 2023 is to be a full-stack developer and contribute to more open source projects."
-  
-- Israel Fitsum (https://github.com/codeXXripper)<br>
-  "The one with the Year 2023,where I will contribute with open source projects!"
-
-- Ian Ganza(https://github.com/i-ganza007)
-" This year I hope to have built sufficient street cred that I can show on applications and specifically I would like to contribute to a serious meaningful application"
-
-
-## J
-- Jaron Wenger (https://github.com/JaronWenger)<br>
-  "I want to become a javascript legend."
-
-- Joshua (https://github.com/Jorshuare)<br>
-"My goal for the remaining part of this year is to do more Machine Learning projects and push them to my GitHub)"
-
-- Joyof-living (https://github.com/Joyof-living)
-  "My goal for this year is to fix my bad habits."
-
-## K
-
-- Kappa0x (https://github.com/kappa0x)<br>
-  "For as long as I can remember, I have been dreaming of achieving something great. Now, I am determined to make that dream a reality before it's too late, as time is an invaluable commodity"
-
-## L
-
-- lakshu230 (https://github.com/lakshu230)<br>
-  "My goal is to learn open-source contribution and collaborate with developers!"
-- LinThitHtwe (https://github.com/LinThitHtwe)<br>
- "In 2024, my goal is to enhance my skills as a developer, mastering UI/UX design and gaining a deeper understanding of machine      learning."
-- LucilleLiu23 (https://github.com/LucilleLiu23)<br>
-  "My goal for 2026 is to improve my Python and AI engineering skills and contribute to more open-source projects!
-
-## M
-
-- MartinsMind (https://github.com/martinsmind)<br>
-  "For the year 2023, my goal is to learn Python, C and JavaScript. Also contribute more to open source projects!" <br><br>
-  
-- mhayakawa1 (https://github.com/mhayakawa1)<br>
-  "My goal for this year is to learn Angular, build a project with an API, and apply to more jobs."
-
-## N
-
-- Namit Malasi(https://github.com/namitmalasi)
-  "In 2023 my goal will be to contribute to the open source community as much as possible."
-
-- Niraj Deshmukh(https://github.com/NirajD10)<br>
-  "This year, I am going to follow passionate as Full stack developer and land high paying job as well as contribute github repo as
-  much as I can!"
-
-- NitkarshChoursia (https://github.com/NitkarshChourasia)<br>
-  "For the year 2023, my goal is to achieve my definition of success, I am also planning to be successful on Youtube!"
-
-## O
-
-## P
-
-- Peter Dinh (https://github.com/PeterDevelops)<br>
-  "A goal in 2023 for me would be to complete the foundation section of The Odin Project and create  a lot of projects to put on my personal portfolio" <br>
-
-- Pdzoc (https://github.com/Pdzoc)<br>
-  "It's not exactly my first contribution, but I like the idea that this repository is like a time capsule. For this year I would like to get +100 solved tasks in certain site with coding chalenges, and trying riding." <br>
-  
-- Pedro Santos (https://github.com/PedroMauricioDeBritoSantos)<br>
-  "A goal in 2026 for me is turn a better dev applying my git notions in my projects"
-
-## Q
-
-## R
-
-- rafaelnacle (https://github.com/rafaelnacle)<br>
-  "In 2023 I want to find myself a programming job and contribute more to coding communities. Also working to stream and make Youtube videos."
-
-- RahulKrishna (https://github.com/RahulKrishna-A)
-    "In 2023 my goal is to make more open source contributions and increase my knowledge in the field of web development"
-
-- Rakesh Chotaliya (https://github.com/RakeshC7)<br>
-  "I want to contribute in Open-source project as possible as i can for the year of 2023. well started my journey with this repo. and many more repos. in progress, Thanks HyunCafe.✨✨"
-
-- Ramona Ekanayake (https://github.com/Ramzynco) <br>
-  "Its the year of SKIllING! "I am" becomming a JAVA FULL STACK DEVELOPER"
-
-- rcDeveloping (https://github.com/rcDeveloping)<br>
-  "2023 is the year to learn Python for data science!"
-
-- Ru Chern Chong (https://github.com/RuChernChong)<br>
-  "2023 is the year of self investing."
-
-## S
-
-- 5idneyD (https://github.com/5idneyD)<br>
-  "My goal in 2023 is to become proficient in Rust, and expand my accounting website"
-
-- Siri-RTNP (https://github.com/Siri-RTNP)<br>
-  "My goal in 2023 is to land a job as a web developer and pass the German B2 test!"
-  -SawyerWetson (https://github.com/SawyerWetson)<br>
-   "My goal in 2025 is to achieve mastery of python and java check out my repo SmartUmpires and try it today!!!!"
-
-## T
-
-- TomeSprout (https://github.com/TomeSprout)<br>
-  "Let's fulfill this full-time Full Stack role, full stop. Also need to get these Go apps launched and contribute to projects outside of my comfort zone. 🌱 -- Cool stuff @HyunCafe"
-
-## U
-
-## V
-
-- VulcanWM (https://github.com/VulcanWM)<br>
-  "My goal in 2023 is to contribute to more open source projects!"
-
-## W
-- Werninger (https://github.com/Werninger) <br>
-  "For the year 2023, my goal is to contribute to more open source projects!"
-
-- WitchingHr (https://github.com/WitchingHr)<br>
-  "My goal in 2023 is to create a fitness tracker application using React Native and show it off to employers to help land myself a job. 1% BETTER EVERY DAY 💪"
-
-## X
-
-## Y
-
-- YouGotHitByGunner (https://github.com/YouGotHitByGunner)<br>
-  "For the year 2023, my goal is to get a job as a Software Engineer! I'll be learning every day towards that goal and make 2023 my year! Let's go!!"<br>
-  "Thank you to HyunCafe for teaching me the fundamentals of contributing to open-source projects!"
-
-## Z
-
-<!-- @cassiofb-dev: Thanks for the initative HyunCafe it was cool and fun! -->
-<!-- @cassiofb-dev: I think it would be funny to keep this comments -->
-<!-- @cassiofb-dev: People will only see this with the source code :p -->
+Made and maintained by [HyunCafe](https://github.com/HyunCafe), with thanks to everyone who has practiced their first open-source contribution here.
