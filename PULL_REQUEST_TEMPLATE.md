@@ -1,12 +1,13 @@
-<!-- Thank you for taking the time to contribute to this project!
-In order to get this pull request (PR) merged in a reasonable amount of time, please follow this checklist -->
+## What did you change?
 
-## Pull Request Requirements
-<!-- Replace the whitespace between the square brackets with an 'x', e.g. [x]. After you create the PR, they will become checkboxes that you can click on. -->
--   [ ] I have followed the directions and format under contributing.md and readme.md
--   [ ] Arrange your username in alphabetical order based on the first letter, then the second letter, and so on. (For example, if your username is "JohnDoe", it should         be grouped under the "J" category and placed in alphabetical order based on the next letter "o" and so on.
--   [ ] I added my github link
--   [ ] I added a personal goal for this year
+<!-- One sentence is enough, e.g., "I added my GitHub username and a goal to the contributor wall." -->
 
-<img width="500" src="assests/congrats.gif" alt="congrats will ferrel heck celebrating" />
-Congrats and Thank you!
+## Checklist
+
+- [ ] I changed only `contributing.md` for the first-contribution exercise.
+- [ ] I used Git Bash to create a branch, review, commit, and push my change.
+- [ ] My new entry is sorted by the full GitHub username, case-insensitively.
+- [ ] I checked the diff and preserved existing entries.
+- [ ] I did not include private information or credentials.
+
+<!-- Please open a separate PR for larger documentation changes. -->
