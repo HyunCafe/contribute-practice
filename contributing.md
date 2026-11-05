@@ -266,3 +266,5 @@ The original names, profile links, and personal goals have been retained and reo
 
 New to GitHub? You only need to add your own name and a short goal.
 Follow the [Git Bash walkthrough](README.md#your-first-contribution-step-by-step) to add your own entry.
+
+<!-- Temporary CI verification; do not merge this draft PR. -->
