@@ -87,7 +87,7 @@ The original names, profile links, and personal goals have been retained and reo
 
 - **HyunCafe** ([`@HyunCafe`](https://github.com/HyunCafe))
   > <br>
-  > "For the year 2023, my goal is to contribute more to open source projects!"
+  > "TEMPORARY CI TEST: An existing goal was changed. Do not merge."
 
 - **HyunPrac** ([`@HyunPrac`](https://github.com/HyunPrac))
   > <br>
