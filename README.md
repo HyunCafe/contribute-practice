@@ -12,7 +12,7 @@
   <img src="assests/Coffee.gif" width="640" alt="Animated steaming coffee illustration from the original project" />
 </p>
 
-A guided, beginner-friendly practice project. No programming experience needed—just Git Bash, a GitHub account, and one Markdown edit.
+No coding experience needed. You'll use Git Bash for the Git commands and VS Code to make a small edit, then send your first pull request.
 
 **[Start the Git Bash walkthrough](#your-first-contribution-step-by-step)** · [Contributor wall](contributing.md) · [Contribution rules](.github/CONTRIBUTING.md) · [Troubleshooting](docs/TROUBLESHOOTING.md)
 
@@ -62,7 +62,7 @@ You will need:
 
 1. A [GitHub account](https://github.com/signup) that you can sign in to.
 2. **Git for Windows**, from the [official Git website](https://git-scm.com/downloads/win). It includes **Git Bash**. If you already use Git Bash, you can skip installation.
-3. Any text editor. **Windows Notepad** is enough for this exercise.
+3. **Visual Studio Code (VS Code)** from [the official website](https://code.visualstudio.com/download). We'll use it to edit the contributor file; no extensions needed.
 
 Open **Git Bash** and verify Git is installed:
 
@@ -129,11 +129,15 @@ This creates and switches to a separate branch. Your local `main` stays unchange
 
 ### 4. Edit **only** `contributing.md`
 
-If you're using Git Bash on Windows, open the file in Notepad:
+From Git Bash, while you're inside your cloned repository, open the project in **VS Code**:
 
 ```bash
-notepad.exe contributing.md
+code .
 ```
+
+In VS Code's **Explorer** (left sidebar), open `contributing.md`. That's the only file you need to edit. Keep Git Bash open for the Git commands that follow.
+
+If Git Bash says `code: command not found`, reopen Git Bash after installing VS Code and try again. You can also use **File → Open Folder** in VS Code and select your cloned `contribute-practice` folder.
 
 Find the letter matching **the first character of your GitHub username**, not your display name. Insert your entry in case-insensitive alphabetical order: compare the first character, then the second, third, and so on. If a letter section is missing, create it in the proper position. Handles starting with digits belong in `## 0–9 and symbols` at the end.
 
@@ -148,7 +152,7 @@ For example, `@anna` comes before `@anne`, and `@anne` comes before `@anton`. Yo
 
 **Keep your edit limited to your entry.** Don't edit `README.md`, rewrite anyone else's goal, or reorganize existing records in your first PR. The contributor list is public, so don't include private contact information or passwords.
 
-Save the file in Notepad when done.
+Press **Ctrl+S** in VS Code to save your change, then return to Git Bash.
 
 ### 5. Review the change before committing
 
@@ -230,7 +234,7 @@ The wall is maintained in **`contributing.md` alone**. The README contains instr
 
 **Do I need to know programming?** No. Your first PR is a small Markdown edit.
 
-**Do I need Python, Node.js, SSH keys, or build tools?** No. Git Bash, GitHub, and a text editor are enough. HTTPS is the default in this tutorial; SSH is optional for experienced users.
+**Do I need Python, Node.js, SSH keys, or build tools?** No. Git Bash, GitHub, and VS Code are enough for this exercise. We're using HTTPS, so there's no SSH setup.
 
 **Why use a branch?** It lets you propose an isolated change that the maintainer can review safely.
 
