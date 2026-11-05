@@ -18,7 +18,16 @@ Check your remote:
 git remote -v
 ```
 
-The URL named `origin` should be `https://github.com/YOUR_USERNAME/contribute-practice.git`, where `YOUR_USERNAME` is **your own** GitHub handle. If it points to `HyunCafe`, pause and ask for help rather than pushing elsewhere.
+The URL named `origin` should be `https://github.com/YOUR_USERNAME/contribute-practice.git`, where `YOUR_USERNAME` is **your own** GitHub handle.
+
+**Real output example — the original project (not your fork):** If you see this, you cloned the maintainer's repository:
+
+```text
+origin  https://github.com/HyunCafe/contribute-practice.git (fetch)
+origin  https://github.com/HyunCafe/contribute-practice.git (push)
+```
+
+That is a complete, real URL, but **it is the wrong remote for a new contributor's fork**. Your `origin` should say `YOUR_USERNAME` with **your own** handle substituted. If it shows `HyunCafe`, stop and ask for help before pushing.
 
 ## `fatal: destination path 'contribute-practice' already exists`
 
@@ -29,7 +38,7 @@ git clone https://github.com/YOUR_USERNAME/contribute-practice.git my-contributi
 cd my-contribution-practice
 ```
 
-Replace `YOUR_USERNAME` with your own handle before running.
+Replace `YOUR_USERNAME` with your own handle before running. Compare it with the original project's URL, `https://github.com/HyunCafe/contribute-practice.git`: your clone URL should have **your own account name instead of `HyunCafe`**.
 
 ## Git doesn't know who I am
 
@@ -40,7 +49,7 @@ git config user.name "YOUR NAME"
 git config user.email "YOUR_GITHUB_NOREPLY_EMAIL"
 ```
 
-GitHub supports [private no-reply commit email addresses](https://docs.github.com/en/account-and-profile/how-tos/email-preferences/setting-your-commit-email-address). Don't paste someone else's identity; never put your password in these commands.
+**Filled-in name example:** The project owner could use `git config user.name "HyunCafe"`. **You should set your own name**, not the owner's. For the email, copy the exact no-reply address from [your own GitHub email settings](https://docs.github.com/en/account-and-profile/how-tos/email-preferences/setting-your-commit-email-address)—it differs between users. Never paste a password into these commands.
 
 ## The branch already exists
 
@@ -84,3 +93,18 @@ This project is reviewed by a maintainer. A delay is not necessarily an error; w
 ## GitHub looks different from the tutorial
 
 The names and placement of controls can change. Look for **Fork**, **Compare & pull request**, **Files changed**, and **Create pull request**. Refer to the [official GitHub contribution guide](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project).
+
+## The contributor check has a red X
+
+Open your PR and choose **Details** beside the failed check. The message should say what needs fixing and which line to check. Common problems are a username in the wrong letter section, a missing learning goal or a duplicate profile.
+
+In VS Code, fix `contributing.md`, press **Ctrl+S**, and then run this in Git Bash:
+
+```bash
+git diff -- contributing.md
+git add contributing.md
+git commit -m "docs: fix my contributor entry"
+git push
+```
+
+**Example outcome:** The same pull request updates with your fix. You don't need to open a second PR or install Python. If GitHub says the check is waiting for approval, a maintainer may need to authorize the first-time contributor workflow.

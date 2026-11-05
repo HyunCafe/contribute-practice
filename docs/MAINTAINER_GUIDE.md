@@ -35,3 +35,15 @@ For larger updates, use a separate branch and a pull request so the teaching mat
 - [GitHub contribution guidelines](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
 - [GitHub pull request templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository)
 - [GitHub first contributions](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project)
+
+## Contributor examples and presentation
+
+When instructions use placeholders such as `YOUR_USERNAME`, show an understandable completed example alongside them. The README and contribution guide use `@HyunCafe` as a **clearly labeled illustrative contributor entry**; never imply its sample goal is the maintainer's real goal or that it has been added to the wall. For clone/remote examples, `HyunCafe` identifies the **original repository owner**, not a newcomer's fork. Always tell contributors to use their own handle for push access.
+
+Keep the original GIFs and screenshots in `assests/` (historical directory spelling). See [visual guidelines](VISUAL_STYLE.md). Screenshots can become dated, so always provide written instructions and label differences such as SSH versus HTTPS.
+
+## Automatic contributor checks
+
+The GitHub Actions workflow reads `contributing.md` from incoming PRs but runs the checker from the **trusted base commit**. It does not run contributor-supplied Python code or install dependencies. The workflow has read-only permissions and checks sorting, links, duplicate handles, goals and preservation of existing entries.
+
+For a maintainer test: `python -m unittest discover -s tests -v` then `python tools/check_contributors.py`. Review PRs manually even when checks pass; software validation is not a substitute for checking content and intent.

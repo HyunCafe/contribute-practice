@@ -1,25 +1,41 @@
 # Contribution guidelines
 
-Welcome! This is a **Git Bash-first, documentation-only** exercise for learning how to contribute to open source. You do **not** need programming experience, Python, or a package manager.
+Welcome! This little practice repository is here to help you try the real Git and GitHub workflow. You'll use **Git Bash** for commands and **VS Code** to edit one Markdown file. You don't need programming experience or extra packages.
 
 ## Your first PR
 
 1. [Fork this repository](https://github.com/HyunCafe/contribute-practice/fork) on GitHub.
-2. **Clone your own fork** into Git Bash using HTTPS and create a new branch.
+2. **Clone your own fork** using Git Bash (HTTPS), open it in VS Code with `code .`, and create a branch.
 3. Edit **only `contributing.md`** to add your GitHub profile and a short learning goal.
 4. Review the diff, stage that one file, **make one commit**, and push your branch.
 5. Open a pull request against `HyunCafe/contribute-practice:main`.
 
-Follow the [step-by-step Git Bash tutorial](../README.md#your-first-contribution-step-by-step) for the complete commands and screenshots-independent instructions.
+Follow the [step-by-step walkthrough](../README.md#your-first-contribution-step-by-step) for the commands, VS Code steps, and screenshots.
 
 ## Entry format
 
-Use the following **two-line Markdown format**:
+Use this two-line format, then compare it with a complete sample entry.
+
+**Template — replace the placeholders:**
 
 ```md
-- **ExampleUser** ([`@ExampleUser`](https://github.com/ExampleUser))
-  > "My goal is to learn how to collaborate on open source."
+- **YOUR_DISPLAY_NAME** ([`@YOUR_USERNAME`](https://github.com/YOUR_USERNAME))
+  > "YOUR_LEARNING_GOAL"
 ```
+
+**Completed example — using `HyunCafe` as the sample username:**
+
+```md
+- **HyunCafe** ([`@HyunCafe`](https://github.com/HyunCafe))
+  > "My goal is to practice Git, make a small change, and open a pull request."
+```
+
+**What GitHub displays:**
+
+- **HyunCafe** ([`@HyunCafe`](https://github.com/HyunCafe))
+  > "My goal is to practice Git, make a small change, and open a pull request."
+
+This example demonstrates the format using the project owner's username. The learning goal is illustrative, not a claim about the maintainer. **Don't copy the example**—add your own information instead.
 
 Replace the handle, URL, and goal with your own values. You may use a different display name, but the `@handle` from your profile URL determines where the entry goes. A date is optional; do not rewrite old years or personal goals.
 

@@ -1,6 +1,6 @@
 ## What did you change?
 
-<!-- One sentence is enough, e.g., "I added my GitHub username and a goal to the contributor wall." -->
+<!-- Completed example: "I added @my-username to contributing.md and included my learning goal." Write one sentence about your own change. -->
 
 ## Checklist
 
@@ -11,3 +11,5 @@
 - [ ] I did not include private information or credentials.
 
 <!-- Please open a separate PR for larger documentation changes. -->
+
+🎉 [A little celebration from the original project](https://github.com/HyunCafe/contribute-practice/blob/main/assests/congrats.gif) (optional, opens a GIF).
