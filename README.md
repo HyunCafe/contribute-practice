@@ -1,8 +1,16 @@
 <div align="center">
 
-# Your First Open-Source Contribution
+<h1 align="center">
+  <img src="assests/flamey.gif" width="48" alt="" />
+  Your First Open-Source Contribution
+  <img src="assests/flamey.gif" width="48" alt="" />
+</h1>
 
 **Learn Git and GitHub by making one real pull request.**
+
+<p align="center">
+  <img src="assests/Coffee.gif" width="640" alt="Animated steaming coffee illustration from the original project" />
+</p>
 
 A guided, beginner-friendly practice project. No programming experience needed—just Git Bash, a GitHub account, and one Markdown edit.
 
@@ -19,6 +27,10 @@ This repository exists to teach the skills behind open-source collaboration: **f
 You'll introduce yourself on our contributor wall and share a learning goal. That is a real, small documentation contribution. The purpose is to practice **Git Bash and GitHub**, not to write code.
 
 > **Your first challenge:** Change **one file** (`contributing.md`), create **one commit**, and open **one pull request**. There is no need to edit the README or install a build system.
+
+<p align="center">
+  <img src="assests/studiogif.gif" width="360" alt="Playful animated cat from the original walkthrough" />
+</p>
 
 ## The journey
 
@@ -70,7 +82,23 @@ git --version
 
 > You need write access to your fork. You do not need write access to the original repository.
 
+<p align="center">
+  <img src="assests/forkrepo.JPG" width="540" alt="GitHub Fork menu from the original walkthrough" />
+</p>
+
+<p align="center">
+  <img src="assests/createforkrepo.JPG" width="540" alt="Create fork screen from the original walkthrough" />
+</p>
+
+*Screenshots from the original tutorial. GitHub's interface may look different today; follow the written instructions above.*
+
 ### 2. Clone **your fork** using Git Bash
+
+<p align="center">
+  <img src="assests/clonestep1.JPG" width="540" alt="GitHub Code menu from the original walkthrough" />
+</p>
+
+**Note:** This older screenshot shows SSH. For your first contribution, select **HTTPS** and follow the commands below instead. You do not need to set up SSH keys.
 
 Open Git Bash in a folder where you'd like to keep your practice project (your home directory is fine).
 
@@ -163,9 +191,36 @@ If a sign-in window opens, use the official GitHub authentication flow. **GitHub
 4. Give the PR a clear title, such as `docs: add YOUR_USERNAME to contributors`.
 5. Briefly describe what you learned, then click **Create pull request**.
 
+<p align="center">
+  <img src="assests/prstep1.JPG" width="540" alt="Pull-request menu from the original walkthrough" />
+</p>
+
+<p align="center">
+  <img src="assests/prstep2.JPG" width="540" alt="Pull-request creation screen from the original walkthrough" />
+</p>
+
+*The GitHub interface may have changed since these were taken. Follow the steps above.*
+
 **That's the complete exercise: one file → one commit → one PR.** Your request may remain open while a maintainer reviews it. Watch for comments and follow up if changes are requested.
 
+<p align="center">
+  <img src="assests/totoro.gif" width="640" alt="Animated celebration illustration from the original project" />
+</p>
+
+**You did it!** You've opened a pull request. That's the same workflow you'll use in other open-source projects. Keep an eye out for feedback, and thanks for joining in!
+
+<p align="center">
+  <img src="assests/borderseperator.gif" width="680" alt="Decorative separator from the original project" />
+</p>
+
 ## Our contributor wall
+
+<p align="center">
+  <a href="https://github.com/HyunCafe/contribute-practice/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=HyunCafe/contribute-practice" alt="GitHub contributors to Contribute Practice" width="680" />
+  </a>
+</p>
+
 
 Meet the [community contributors and their learning goals](contributing.md). New names are sorted by **GitHub username**, case-insensitively and character-by-character. Older goals and years are part of this project's history and should not be rewritten.
 
