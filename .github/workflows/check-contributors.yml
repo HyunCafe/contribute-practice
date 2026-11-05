@@ -1,0 +1,64 @@
+name: Check contributor entries
+
+on:
+  pull_request:
+    types: [opened, reopened, synchronize, ready_for_review]
+
+# No write permission, secrets, or privileged pull_request_target trigger.
+permissions:
+  contents: read
+
+jobs:
+  contributors:
+    name: Contributor list
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - name: Check out the proposed changes as data
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+
+      # Never execute a validator modified by a pull request. The trusted
+      # copy comes from the base commit, while contributing.md is read as data.
+      - name: Load the trusted validator
+        shell: bash
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+        run: |
+          git show "$BASE_SHA:tools/check_contributors.py" > "$RUNNER_TEMP/trusted_checker.py"
+          git show "$BASE_SHA:contributing.md" > "$RUNNER_TEMP/base_contributors.md"
+
+      - name: Check alphabetical order and entry format
+        shell: bash
+        run: |
+          # Initial rollout: main has the 2026 validator without --baseline.
+          # Run only the code from the trusted base in either case.
+          if grep -q "parser.add_argument('--baseline'" "$RUNNER_TEMP/trusted_checker.py"; then
+            python3 "$RUNNER_TEMP/trusted_checker.py" \
+              --file "$GITHUB_WORKSPACE/contributing.md" \
+              --baseline "$RUNNER_TEMP/base_contributors.md"
+          else
+            echo "::notice::Initial rollout: using the trusted legacy contributor checker. Preservation checks start after this change merges."
+            mkdir -p "$RUNNER_TEMP/legacy/tools"
+            cp "$RUNNER_TEMP/trusted_checker.py" "$RUNNER_TEMP/legacy/tools/check_contributors.py"
+            cp "$GITHUB_WORKSPACE/contributing.md" "$RUNNER_TEMP/legacy/contributing.md"
+            python3 "$RUNNER_TEMP/legacy/tools/check_contributors.py"
+          fi
+
+      # A friendly reminder, not a block: documentation improvements may
+      # legitimately span several files, but first contributions should not.
+      - name: Remind first-time contributors to keep changes small
+        shell: bash
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+        run: |
+          git diff --name-only "$BASE_SHA" "$GITHUB_SHA" > "$RUNNER_TEMP/changed-files.txt"
+          python3 - "$RUNNER_TEMP/changed-files.txt" <<'PY'
+          import sys
+          from pathlib import Path
+          changed = [p for p in Path(sys.argv[1]).read_text().splitlines() if p]
+          if 'contributing.md' in changed and len(changed) > 1:
+              print('::warning::For your first contribution, try changing only contributing.md. You can suggest other improvements in a separate pull request.')
+          PY

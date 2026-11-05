@@ -12,7 +12,7 @@
   <img src="assests/Coffee.gif" width="640" alt="Animated steaming coffee illustration from the original project" />
 </p>
 
-No coding experience needed. You'll use Git Bash for the Git commands and VS Code to make a small edit, then send your first pull request.
+No coding experience needed. You'll use Git Bash to practice the commands, VS Code to edit one file, and GitHub to share your first contribution.
 
 **[Start the Git Bash walkthrough](#your-first-contribution-step-by-step)** · [Contributor wall](contributing.md) · [Contribution rules](.github/CONTRIBUTING.md) · [Troubleshooting](docs/TROUBLESHOOTING.md)
 
@@ -78,7 +78,9 @@ git --version
 
 1. Sign in to GitHub and open **[HyunCafe/contribute-practice](https://github.com/HyunCafe/contribute-practice)**.
 2. Select **Fork** → **Create fork**.
-3. Confirm the address now starts with `https://github.com/YOUR_USERNAME/contribute-practice` where `YOUR_USERNAME` is **your own** GitHub username.
+3. Confirm the address looks like `https://github.com/YOUR_USERNAME/contribute-practice`, replacing `YOUR_USERNAME` with **your own** GitHub handle.
+
+**Real URL example:** This project is at `https://github.com/HyunCafe/contribute-practice`. Here, `HyunCafe` is the original owner. After you fork it, your fork will have **your** GitHub username in that position. Don't submit your change to the original repository as though it were your fork.
 
 > You need write access to your fork. You do not need write access to the original repository.
 
@@ -108,6 +110,14 @@ Replace `YOUR_USERNAME` with your real GitHub username **before running the comm
 git clone https://github.com/YOUR_USERNAME/contribute-practice.git
 cd contribute-practice
 ```
+
+**Real URL example (original project, not your fork):**
+
+```text
+https://github.com/HyunCafe/contribute-practice.git
+```
+
+This is the clone URL for **HyunCafe's original repository**. It shows what a complete GitHub clone address looks like. For your first contribution, use the `git clone` command **above**, with `YOUR_USERNAME` replaced by **your own handle**. Otherwise your `origin` remote may point to a repository you cannot push to.
 
 **Check that you cloned the right repository:**
 
@@ -141,12 +151,28 @@ If Git Bash says `code: command not found`, reopen Git Bash after installing VS 
 
 Find the letter matching **the first character of your GitHub username**, not your display name. Insert your entry in case-insensitive alphabetical order: compare the first character, then the second, third, and so on. If a letter section is missing, create it in the proper position. Handles starting with digits belong in `## 0–9 and symbols` at the end.
 
-Use this **two-line Markdown format**, replacing the example handle, profile URL, and goal with your own information:
+Here's the entry template. Replace each placeholder with **your own** information:
+
+**Template — what to type in `contributing.md`:**
 
 ```md
-- **ExampleUser** ([`@ExampleUser`](https://github.com/ExampleUser))
-  > "My goal is to learn how to contribute to open source."
+- **YOUR_DISPLAY_NAME** ([`@YOUR_USERNAME`](https://github.com/YOUR_USERNAME))
+  > "YOUR_LEARNING_GOAL"
 ```
+
+**Completed example — using the repository owner, `HyunCafe`:**
+
+```md
+- **HyunCafe** ([`@HyunCafe`](https://github.com/HyunCafe))
+  > "My goal is to practice Git, make a small change, and open a pull request."
+```
+
+**How it appears on GitHub:**
+
+- **HyunCafe** ([`@HyunCafe`](https://github.com/HyunCafe))
+  > "My goal is to practice Git, make a small change, and open a pull request."
+
+This is an **illustrative entry**, not an entry copied from the contributor wall. `HyunCafe` is the repository owner, and the goal shown here is sample wording—not a statement of the maintainer's personal goals. Please enter **your own** username, profile link, and learning goal instead.
 
 For example, `@anna` comes before `@anne`, and `@anne` comes before `@anton`. Your display name can be different from your `@handle`; the **handle in your profile link** determines the order.
 
@@ -164,7 +190,13 @@ git diff -- contributing.md
 git diff --check
 ```
 
-You should see **only `contributing.md` changed**. Check your spelling, GitHub profile URL, Markdown formatting, and alphabetical placement. If other files changed, investigate before staging or committing.
+You should see **only `contributing.md` changed**. For example, this is what `git status --short` often shows after you save:
+
+```text
+ M contributing.md
+```
+
+Check your spelling, GitHub profile URL, Markdown formatting, and alphabetical placement. If other files changed, investigate before staging or committing.
 
 ### 6. Make **one commit**
 
@@ -177,7 +209,13 @@ git diff --cached --check
 git commit -m "docs: add my contributor profile"
 ```
 
-The staged-file list should contain only `contributing.md`. If Git asks you to configure your author identity, see [troubleshooting](docs/TROUBLESHOOTING.md#git-doesnt-know-who-i-am).
+The staged-file list should contain only `contributing.md`, like this:
+
+```text
+contributing.md
+```
+
+If Git asks you to configure your author identity, see [troubleshooting](docs/TROUBLESHOOTING.md#git-doesnt-know-who-i-am).
 
 ### 7. Push your branch to your fork
 
@@ -192,7 +230,7 @@ If a sign-in window opens, use the official GitHub authentication flow. **GitHub
 1. Open **your fork** on GitHub and look for **Compare & pull request**. Alternatively select **Pull requests → New pull request**.
 2. Confirm the **base** is `HyunCafe/contribute-practice` on `main` and the **head** is your fork's new branch.
 3. Confirm the **Files changed** tab shows **only `contributing.md`**.
-4. Give the PR a clear title, such as `docs: add YOUR_USERNAME to contributors`.
+4. Give the PR a clear title, such as `docs: add YOUR_USERNAME to contributors`. For the illustrative `HyunCafe` entry shown above, that title would be `docs: add HyunCafe to contributors`. **Use your own handle** for your real PR.
 5. Briefly describe what you learned, then click **Create pull request**.
 
 <p align="center">
