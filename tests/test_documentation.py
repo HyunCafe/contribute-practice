@@ -51,7 +51,7 @@ class QualityPassTests(unittest.TestCase):
         self.assertNotIn('pull_request_target:', WORKFLOW)
         self.assertIn('contents: read', WORKFLOW)
         self.assertNotIn('contents: write', WORKFLOW)
-        self.assertIn('checkout@11d5960a326750d5838078e36cf38b85af677262', WORKFLOW)
+        self.assertIn('checkout@3d3c42e5aac5ba805825da76410c181273ba90b1', WORKFLOW)
         self.assertIn('git show "$BASE_SHA:tools/check_contributors.py"', WORKFLOW)
         self.assertIn('git show "$BASE_SHA:contributing.md"', WORKFLOW)
         self.assertIn('--baseline', WORKFLOW)
