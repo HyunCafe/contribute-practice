@@ -126,6 +126,8 @@ The original names, profile links, and personal goals have been retained and reo
   > <br>
   > "For as long as I can remember, I have been dreaming of achieving something great. Now, I am determined to make that dream a reality before it's too late, as time is an invaluable commodity"
 
+
+
 ## L
 
 - **lakshu230** ([`@lakshu230`](https://github.com/lakshu230))
@@ -228,6 +230,10 @@ The original names, profile links, and personal goals have been retained and reo
 - **TomeSprout** ([`@TomeSprout`](https://github.com/TomeSprout))
   > <br>
   > "Let's fulfill this full-time Full Stack role, full stop. Also need to get these Go apps launched and contribute to projects outside of my comfort zone. 🌱 -- Cool stuff @HyunCafe"
+
+- **tvmkamalesh3031-maker** ([`@tvmkamalesh3031-maker`](https://github.com/tvmkamalesh3031-maker))
+  > <br>
+  > "trying to become an software developer."
 
 ## V
 
