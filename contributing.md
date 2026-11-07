@@ -126,6 +126,10 @@ The original names, profile links, and personal goals have been retained and reo
   > <br>
   > "For as long as I can remember, I have been dreaming of achieving something great. Now, I am determined to make that dream a reality before it's too late, as time is an invaluable commodity"
 
+- **[Kamalesh]** ([`kamalesh`](https://github.com/tvmkamalesh3031-maker))
+  > <br>
+  > "trying to become an software developer."
+
 ## L
 
 - **lakshu230** ([`@lakshu230`](https://github.com/lakshu230))
