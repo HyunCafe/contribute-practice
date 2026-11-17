@@ -216,6 +216,10 @@ The original names, profile links, and personal goals have been retained and reo
 - **SawyerWetson** ([`@SawyerWetson`](https://github.com/SawyerWetson))
   > "My goal in 2025 is to achieve mastery of python and java check out my repo SmartUmpires and try it today!!!!"
 
+- **Shikhar Sharma** ([`@shikjazz`](https://github.com/shikjazz))
+  > <br>
+  > "For 2026, my goal is to advance my NLP and ML skills and contribute to open source while completing my M.Sc. in Computational Linguistics!"
+
 - **Siri-RTNP** ([`@Siri-RTNP`](https://github.com/Siri-RTNP))
   > <br>
   > "My goal in 2023 is to land a job as a web developer and pass the German B2 test!"
